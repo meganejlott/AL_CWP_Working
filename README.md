@@ -8,5 +8,7 @@
 ## Within the "Code" folder, run the .R scripts in the following order: 
 
 01_standard_curves.R
+
 02_processing.R
+
 03_summary_statistics.R
