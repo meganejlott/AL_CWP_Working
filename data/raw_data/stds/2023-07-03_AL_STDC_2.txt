@@ -1,0 +1,769 @@
+Well	Well Position	Omit	Sample Name	Target Name	Task	Reporter	Quencher	CT	Ct Mean	Ct SD	Quantity	Quantity Mean	Quantity SD	Automatic Ct Threshold	Ct Threshold	Automatic Baseline	Baseline Start	Baseline End	Comments	Y-Intercept	R(superscript 2)	Slope	Efficiency	Amp Score	Cq Conf	BADROX	NOAMP	NOISE	EXPFAIL	THOLDFAIL	PRFLOW	PRFDROP
+1	A1	false	10^6	16s	UNKNOWN	FAM	NFQ-MGB	11.873	11.873					true	0.040	true	1	45						0.965	0.669	N	N	N	N	Y	N	N
+1	A1	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.830	26.830					true	0.040	true	1	45						1.010	0.938	N	N	N	N	Y	N	N
+2	A2	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.614	26.614					true	0.040	true	1	45						1.014	0.975	N	N	N	N	Y	N	N
+2	A2	false	10^6	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	12.649	12.649					true	0.133	true	1	45						1.279	0.646	N	N	N	N	Y	N	N
+3	A3	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.800	26.800					true	0.040	true	1	45						1.051	0.955	N	N	N	N	Y	N	N
+3	A3	false	10^6	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	12.515	12.515					true	0.059	true	1	45						1.134	0.455	N	N	N	N	Y	N	N
+4	A4	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	32.781	32.781					true	0.040	true	1	45						0.904	0.696	N	N	N	N	Y	N	N
+4	A4	false	10^6	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	13.871	13.871					true	0.207	true	1	45						1.391	0.964	N	N	N	N	Y	N	N
+5	A5	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.030	26.030					true	0.040	true	1	45						1.048	0.898	N	N	N	N	Y	N	N
+5	A5	false	10^6	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	N	Y	N	N
+6	A6	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.240	26.240					true	0.040	true	1	45						1.069	0.962	N	N	N	N	Y	N	N
+6	A6	false	10^6	astrovirus	UNKNOWN	FAM	NFQ-MGB	22.755	22.755					true	0.118	true	1	45						1.257	0.633	N	N	N	N	Y	N	N
+7	A7	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	30.806	30.806					true	0.040	true	1	45						0.940	0.557	N	N	N	N	Y	N	N
+7	A7	false	10^6	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	12.907	12.907					true	0.410	true	1	45						1.487	0.942	N	N	N	N	Y	N	N
+8	A8	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.469	26.469					true	0.040	true	1	45						1.062	0.923	N	N	N	N	Y	N	N
+8	A8	false	10^6	bhv	UNKNOWN	FAM	NFQ-MGB	14.864	14.864					true	0.040	true	1	45						0.969	0.435	N	N	N	N	Y	N	N
+9	A9	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	27.750	27.750					true	0.040	true	1	45						0.984	0.654	N	N	N	N	Y	N	N
+9	A9	false	10^6	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	15.152	15.152					true	0.040	true	1	45						1.087	0.661	N	N	N	N	Y	N	N
+10	A10	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	23.965	23.965					true	0.040	true	1	45						1.075	0.795	N	N	N	N	Y	N	N
+10	A10	false	10^6	brsv	UNKNOWN	FAM	NFQ-MGB	21.235	21.235					true	0.252	true	1	45						1.366	0.911	N	N	N	N	Y	N	N
+11	A11	false	10^6	18s	UNKNOWN	FAM	NFQ-MGB	33.332	33.332					true	0.139	true	1	45						1.247	0.890	N	N	N	N	Y	N	N
+11	A11	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.795	26.795					true	0.040	true	1	45						1.073	0.884	N	N	N	N	Y	N	N
+12	A12	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.723	26.723					true	0.040	true	1	45						1.046	0.919	N	N	N	N	Y	N	N
+12	A12	false	10^6	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	13.059	13.059					true	0.161	true	1	45						1.360	0.988	N	N	N	N	Y	N	N
+13	A13	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	Undetermined						true	0.040	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+13	A13	false	10^6	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	12.498	12.498					true	0.160	true	1	45						1.353	0.890	N	N	N	Y	Y	N	N
+14	A14	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.034	26.034					true	0.040	true	1	45						1.065	0.870	N	N	N	N	Y	N	N
+14	A14	false	10^6	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	12.446	12.446					true	0.070	true	1	45						1.227	0.800	N	N	N	N	Y	N	N
+15	A15	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.575	25.575					true	0.040	true	1	45						1.066	0.907	N	N	N	N	Y	N	N
+15	A15	false	10^6	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	13.506	13.506					true	0.161	true	1	45						1.290	0.812	N	N	N	N	Y	N	N
+16	A16	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.444	26.444					true	0.040	true	1	45						1.052	0.919	N	N	N	N	Y	N	N
+16	A16	false	10^6	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	22.990	22.990					true	0.258	true	1	45						1.346	0.941	N	N	N	N	Y	N	N
+17	A17	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	Undetermined						true	0.040	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+17	A17	false	10^6	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	13.222	13.222					true	0.106	true	1	45						1.367	0.909	N	Y	N	Y	Y	N	N
+18	A18	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	27.063	27.063					true	0.040	true	1	45						1.045	0.872	N	N	N	N	Y	N	N
+18	A18	false	10^6	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	11.243	11.243					true	0.051	true	1	45						1.198	0.520	N	N	N	N	Y	N	N
+19	A19	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	28.591	28.591					true	0.040	true	1	45						0.983	0.908	N	N	N	N	Y	N	N
+19	A19	false	10^6	eaec_aata	UNKNOWN	FAM	NFQ-MGB	12.516	12.516					true	0.040	true	1	45						1.014	0.402	N	N	N	N	Y	N	N
+20	A20	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.283	26.283					true	0.040	true	1	45						1.049	0.895	N	N	N	N	Y	N	N
+20	A20	false	10^6	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	15.131	15.131					true	0.119	true	1	45						1.247	0.711	N	N	N	N	Y	N	N
+21	A21	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	29.195	29.195					true	0.040	true	1	45						0.953	0.776	N	N	N	N	Y	N	N
+21	A21	false	10^6	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	13.707	13.707					true	0.248	true	1	45						1.412	0.981	N	N	N	N	Y	N	N
+22	A22	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.041	26.041					true	0.040	true	1	45						1.037	0.912	N	N	N	N	Y	N	N
+22	A22	false	10^6	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	16.683	16.683					true	0.181	true	1	45						1.306	0.925	N	N	N	N	Y	N	N
+23	A23	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	27.810	27.810					true	0.040	true	1	45						0.958	0.701	N	N	N	N	Y	N	N
+23	A23	false	10^6	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	15.843	15.843					true	0.122	true	1	45						1.245	0.843	N	N	N	N	Y	N	N
+24	A24	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	20.073	20.073					true	0.040	true	1	45						1.039	0.335	N	N	N	N	Y	N	N
+24	A24	false	10^6	epec_eae	UNKNOWN	FAM	NFQ-MGB	16.322	16.322					true	0.168	true	1	45						1.334	0.968	N	N	N	N	Y	N	N
+25	B1	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	27.153	27.153					true	0.040	true	1	45						0.950	0.938	N	N	N	N	Y	N	N
+25	B1	false	10^6	etec_lt	UNKNOWN	FAM	NFQ-MGB	15.875	15.875					true	0.185	true	1	45						1.348	0.899	N	N	N	N	Y	N	N
+26	B2	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	29.415	29.415					true	0.040	true	1	45						0.415	0.757	N	N	N	N	Y	N	Y
+26	B2	false	10^6	etec_sth	UNKNOWN	FAM	NFQ-MGB	16.715	16.715					true	0.221	true	1	45						1.362	0.938	N	N	N	N	Y	N	Y
+27	B3	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.647	26.647					true	0.040	true	1	45						0.922	0.889	Y	N	N	N	Y	Y	Y
+27	B3	false	10^6	etec_stp	UNKNOWN	FAM	NFQ-MGB	14.442	14.442					true	0.065	true	1	45						1.143	0.789	Y	N	N	N	Y	Y	Y
+28	B4	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.454	25.454					true	0.040	true	1	45						1.008	0.807	Y	N	N	N	Y	N	Y
+28	B4	false	10^6	giardia_spp	UNKNOWN	FAM	NFQ-MGB	15.252	15.252					true	0.149	true	1	45						1.247	0.665	Y	N	N	N	Y	N	Y
+29	B5	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.449	26.449					true	0.040	true	1	45						1.042	0.942	N	N	N	N	Y	N	N
+29	B5	false	10^6	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	16.510	16.510					true	0.139	true	1	45						1.235	0.683	N	N	N	N	Y	N	N
+30	B6	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.526	25.526					true	0.040	true	1	45						1.078	0.936	N	N	N	N	Y	N	N
+30	B6	false	10^6	hep_a	UNKNOWN	FAM	NFQ-MGB	20.193	20.193					true	0.130	true	1	45						1.222	0.674	N	N	N	N	Y	N	N
+31	B7	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.575	25.575					true	0.040	true	1	45						1.093	0.977	N	N	N	N	Y	N	Y
+31	B7	false	10^6	hep_g	UNKNOWN	FAM	NFQ-MGB	26.848	26.848					true	0.230	true	1	45						1.330	0.962	N	N	N	N	Y	N	Y
+32	B8	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.684	26.684					true	0.040	true	1	45						1.057	0.968	N	N	N	N	Y	N	N
+32	B8	false	10^6	hf183	UNKNOWN	FAM	NFQ-MGB	16.393	16.393					true	0.179	true	1	45						1.308	0.800	N	N	N	N	Y	N	N
+33	B9	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	24.159	24.159					true	0.040	true	1	45						1.061	0.785	N	N	N	N	Y	N	N
+33	B9	false	10^6	human_mtdna	UNKNOWN	FAM	NFQ-MGB	16.466	16.466					true	0.127	true	1	45						1.203	0.684	N	N	N	N	Y	N	N
+34	B10	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.089	26.089					true	0.040	true	1	45						0.982	0.829	N	N	N	N	Y	N	N
+34	B10	false	10^6	necator_americanus	UNKNOWN	FAM	NFQ-MGB	18.975	18.975					true	0.113	true	1	45						1.214	0.786	N	N	N	N	Y	N	N
+35	B11	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.911	25.911					true	0.040	true	1	45						1.059	0.943	N	N	N	N	Y	N	N
+35	B11	false	10^6	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	20.851	20.851					true	0.130	true	1	45						1.207	0.765	N	N	N	N	Y	N	N
+36	B12	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.025	26.025					true	0.040	true	1	45						1.064	0.930	N	N	N	N	Y	N	N
+36	B12	false	10^6	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	20.315	20.315					true	0.114	true	1	45						1.214	0.907	N	N	N	N	Y	N	N
+37	B13	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	24.241	24.241					true	0.040	true	1	45						1.083	0.854	N	N	N	N	Y	N	N
+37	B13	false	10^6	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	15.950	15.950					true	0.162	true	1	45						1.269	0.816	N	N	N	N	Y	N	N
+38	B14	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	24.846	24.846					true	0.040	true	1	45						1.077	0.901	N	N	N	N	Y	N	N
+38	B14	false	10^6	rotavirus	UNKNOWN	FAM	NFQ-MGB	21.204	21.204					true	0.164	true	1	45						1.333	0.963	N	N	N	N	Y	N	N
+39	B15	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.102	25.102					true	0.040	true	1	45						1.073	0.935	N	N	N	N	Y	N	N
+39	B15	false	10^6	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	16.153	16.153					true	0.304	true	1	45						1.415	0.986	N	N	N	N	Y	N	N
+40	B16	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.375	25.375					true	0.040	true	1	45						1.068	0.928	N	N	N	N	Y	N	Y
+40	B16	false	10^6	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	17.239	17.239					true	0.041	true	1	45						1.218	0.747	N	N	N	N	Y	N	Y
+41	B17	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	23.225	23.225					true	0.040	true	1	45						0.947	0.321	N	N	N	N	Y	N	N
+41	B17	false	10^6	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	19.116	19.116					true	0.217	true	1	45						1.331	0.869	N	N	N	N	Y	N	N
+42	B18	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.437	26.437					true	0.040	true	1	45						1.047	0.893	N	N	N	N	Y	N	N
+42	B18	false	10^6	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	16.376	16.376					true	0.189	true	1	45						1.311	0.901	N	N	N	N	Y	N	N
+43	B19	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.479	26.479					true	0.040	true	1	45						1.037	0.891	N	N	N	N	Y	N	N
+43	B19	false	10^6	stec_stx1	UNKNOWN	FAM	NFQ-MGB	17.145	17.145					true	0.238	true	1	45						1.411	0.879	N	N	N	N	Y	N	N
+44	B20	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	25.618	25.618					true	0.040	true	1	45						1.048	0.887	N	N	Y	N	Y	N	N
+44	B20	false	10^6	stec_stx2	UNKNOWN	FAM	NFQ-MGB	16.924	16.924					true	0.161	true	1	45						1.294	0.809	N	N	Y	N	Y	N	N
+45	B21	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	28.750	28.750					true	0.040	true	1	45						0.858	0.534	N	N	N	N	Y	N	N
+45	B21	false	10^6	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	16.079	16.079					true	0.217	true	1	45						1.417	0.958	N	N	N	N	Y	N	N
+46	B22	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	29.129	29.129					true	0.040	true	1	45						0.879	0.573	N	N	N	N	Y	N	N
+46	B22	false	10^6	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	16.908	16.908					true	0.378	true	1	45						1.475	0.946	N	N	N	N	Y	N	N
+47	B23	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	26.550	26.550					true	0.040	true	1	45						1.041	0.904	N	N	N	N	Y	N	N
+47	B23	false	10^6	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	15.689	15.689					true	0.101	true	1	45						1.182	0.773	N	N	N	N	Y	N	N
+48	B24	false	10^6	IPC	UNKNOWN	VIC	NFQ-MGB	27.197	27.197					true	0.040	true	1	45						1.008	0.952	N	N	N	N	Y	N	N
+48	B24	false	10^6	zika	UNKNOWN	FAM	NFQ-MGB	20.734	20.734					true	0.216	true	1	45						1.321	0.988	N	N	N	N	Y	N	N
+49	C1	false	10^5	16s	UNKNOWN	FAM	NFQ-MGB	15.283	15.283					true	0.040	true	1	45						1.041	0.579	N	N	N	N	Y	N	N
+49	C1	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.947	25.947					true	0.040	true	1	45						1.077	0.890	N	N	N	N	Y	N	N
+50	C2	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.223	26.223					true	0.040	true	1	45						1.029	0.940	N	N	N	N	Y	N	N
+50	C2	false	10^5	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	15.657	15.657					true	0.133	true	1	45						1.279	0.762	N	N	N	N	Y	N	N
+51	C3	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.277	26.277					true	0.040	true	1	45						1.039	0.947	N	N	N	N	Y	N	N
+51	C3	false	10^5	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	14.301	14.301					true	0.059	true	1	45						1.135	0.483	N	N	N	N	Y	N	N
+52	C4	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	21.937	21.937					true	0.040	true	1	45						0.908	0.285	N	N	N	N	Y	N	N
+52	C4	false	10^5	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	17.661	17.661					true	0.207	true	1	45						1.404	0.916	N	N	N	N	Y	N	N
+53	C5	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.154	26.154					true	0.040	true	1	45						1.041	0.954	N	N	N	Y	Y	N	N
+53	C5	false	10^5	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+54	C6	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	27.003	27.003					true	0.040	true	1	45						1.071	0.926	N	N	N	N	Y	N	N
+54	C6	false	10^5	astrovirus	UNKNOWN	FAM	NFQ-MGB	25.764	25.764					true	0.118	true	1	45						1.270	0.792	N	N	N	N	Y	N	N
+55	C7	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	27.502	27.502					true	0.040	true	1	45						0.931	0.574	N	N	N	N	Y	N	N
+55	C7	false	10^5	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	16.983	16.983					true	0.410	true	1	45						1.483	0.961	N	N	N	N	Y	N	N
+56	C8	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.334	25.334					true	0.040	true	1	45						1.057	0.961	Y	N	N	N	Y	N	Y
+56	C8	false	10^5	bhv	UNKNOWN	FAM	NFQ-MGB	14.747	14.747					true	0.040	true	1	45						0.964	0.445	Y	N	N	N	Y	N	Y
+57	C9	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	27.218	27.218					true	0.040	true	1	45						0.984	0.859	N	N	N	N	Y	N	N
+57	C9	false	10^5	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	20.059	20.059					true	0.040	true	1	45						1.124	0.738	N	N	N	N	Y	N	N
+58	C10	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.432	25.432					true	0.040	true	1	45						1.109	0.934	N	N	N	N	Y	N	N
+58	C10	false	10^5	brsv	UNKNOWN	FAM	NFQ-MGB	24.874	24.874					true	0.252	true	1	45						1.404	0.835	N	N	N	N	Y	N	N
+59	C11	false	10^5	18s	UNKNOWN	FAM	NFQ-MGB	32.504	32.504					true	0.139	true	1	45						1.266	0.977	N	N	N	N	Y	N	N
+59	C11	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.798	26.798					true	0.040	true	1	45						1.086	0.909	N	N	N	N	Y	N	N
+60	C12	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.958	25.958					true	0.040	true	1	45						1.058	0.899	N	N	N	N	Y	N	N
+60	C12	false	10^5	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	17.683	17.683					true	0.161	true	1	45						1.360	0.933	N	N	N	N	Y	N	N
+61	C13	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	41.805	41.805					true	0.040	true	1	45						0.628	0.239	N	N	N	N	Y	N	N
+61	C13	false	10^5	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	14.016	14.016					true	0.160	true	1	45						1.342	0.961	N	N	N	N	Y	N	N
+62	C14	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.380	26.380					true	0.040	true	1	45						1.050	0.933	N	N	N	N	Y	N	N
+62	C14	false	10^5	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	17.265	17.265					true	0.070	true	1	45						1.213	0.844	N	N	N	N	Y	N	N
+63	C15	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	22.828	22.828					true	0.040	true	1	45						1.082	0.497	N	N	N	N	Y	N	N
+63	C15	false	10^5	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	16.281	16.281					true	0.161	true	1	45						1.296	0.906	N	N	N	N	Y	N	N
+64	C16	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.493	26.493					true	0.040	true	1	45						1.056	0.964	N	N	N	N	Y	N	N
+64	C16	false	10^5	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	26.015	26.015					true	0.258	true	1	45						1.355	0.939	N	N	N	N	Y	N	N
+65	C17	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	Undetermined						true	0.040	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+65	C17	false	10^5	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	15.808	15.808					true	0.106	true	1	45						1.373	0.841	N	N	N	Y	Y	N	N
+66	C18	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.237	26.237					true	0.040	true	1	45						1.064	0.913	N	N	N	N	Y	N	N
+66	C18	false	10^5	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	15.773	15.773					true	0.051	true	1	45						1.222	0.787	N	N	N	N	Y	N	N
+67	C19	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	27.162	27.162					true	0.040	true	1	45						0.997	0.911	N	N	N	N	Y	N	N
+67	C19	false	10^5	eaec_aata	UNKNOWN	FAM	NFQ-MGB	15.340	15.340					true	0.040	true	1	45						1.026	0.383	N	N	N	N	Y	N	N
+68	C20	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.397	26.397					true	0.040	true	1	45						1.043	0.941	N	N	N	N	Y	N	N
+68	C20	false	10^5	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	16.742	16.742					true	0.119	true	1	45						1.251	0.699	N	N	N	N	Y	N	N
+69	C21	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.595	25.595					true	0.040	true	1	45						0.975	0.503	N	N	N	N	Y	N	N
+69	C21	false	10^5	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	16.646	16.646					true	0.248	true	1	45						1.429	0.967	N	N	N	N	Y	N	N
+70	C22	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.228	26.228					true	0.040	true	1	45						1.050	0.963	N	N	N	N	Y	N	N
+70	C22	false	10^5	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	19.499	19.499					true	0.181	true	1	45						1.323	0.942	N	N	N	N	Y	N	N
+71	C23	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.554	25.554					true	0.040	true	1	45						0.984	0.726	N	N	N	N	Y	N	N
+71	C23	false	10^5	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	18.377	18.377					true	0.122	true	1	45						1.260	0.889	N	N	N	N	Y	N	N
+72	C24	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	23.249	23.249					true	0.040	true	1	45						1.052	0.521	N	N	N	N	Y	N	N
+72	C24	false	10^5	epec_eae	UNKNOWN	FAM	NFQ-MGB	19.657	19.657					true	0.168	true	1	45						1.330	0.904	N	N	N	N	Y	N	N
+73	D1	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	24.351	24.351					true	0.040	true	1	45						0.933	0.832	N	N	N	N	Y	N	Y
+73	D1	false	10^5	etec_lt	UNKNOWN	FAM	NFQ-MGB	19.155	19.155					true	0.185	true	1	45						1.277	0.987	N	N	N	N	Y	N	Y
+74	D2	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	23.263	23.263					true	0.040	true	1	45						1.067	0.642	N	N	N	N	Y	N	N
+74	D2	false	10^5	etec_sth	UNKNOWN	FAM	NFQ-MGB	20.029	20.029					true	0.221	true	1	45						1.339	0.982	N	N	N	N	Y	N	N
+75	D3	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.270	26.270					true	0.040	true	1	45						1.039	0.945	N	N	N	N	Y	N	N
+75	D3	false	10^5	etec_stp	UNKNOWN	FAM	NFQ-MGB	18.074	18.074					true	0.065	true	1	45						1.150	0.935	N	N	N	N	Y	N	N
+76	D4	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.269	26.269					true	0.040	true	1	45						0.981	0.803	Y	N	N	N	Y	N	Y
+76	D4	false	10^5	giardia_spp	UNKNOWN	FAM	NFQ-MGB	18.629	18.629					true	0.149	true	1	45						1.241	0.692	Y	N	N	N	Y	N	Y
+77	D5	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.459	25.459					true	0.040	true	1	45						1.072	0.976	N	N	N	N	Y	N	N
+77	D5	false	10^5	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	19.522	19.522					true	0.139	true	1	45						1.249	0.841	N	N	N	N	Y	N	N
+78	D6	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.737	25.737					true	0.040	true	1	45						1.075	0.973	N	N	N	N	Y	N	N
+78	D6	false	10^5	hep_a	UNKNOWN	FAM	NFQ-MGB	23.466	23.466					true	0.130	true	1	45						1.219	0.734	N	N	N	N	Y	N	N
+79	D7	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.297	26.297					true	0.040	true	1	45						1.098	0.904	N	N	N	N	Y	N	N
+79	D7	false	10^5	hep_g	UNKNOWN	FAM	NFQ-MGB	27.266	27.266					true	0.230	true	1	45						1.362	0.963	N	N	N	N	Y	N	N
+80	D8	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	23.951	23.951					true	0.040	true	1	45						1.062	0.788	N	N	N	N	Y	N	Y
+80	D8	false	10^5	hf183	UNKNOWN	FAM	NFQ-MGB	18.977	18.977					true	0.179	true	1	45						1.300	0.864	N	N	N	N	Y	N	Y
+81	D9	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	24.273	24.273					true	0.040	true	1	45						1.083	0.842	N	N	N	N	Y	N	N
+81	D9	false	10^5	human_mtdna	UNKNOWN	FAM	NFQ-MGB	18.869	18.869					true	0.127	true	1	45						1.223	0.686	N	N	N	N	Y	N	N
+82	D10	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.941	26.941					true	0.040	true	1	45						0.986	0.929	N	N	N	N	Y	N	N
+82	D10	false	10^5	necator_americanus	UNKNOWN	FAM	NFQ-MGB	21.770	21.770					true	0.113	true	1	45						1.233	0.891	N	N	N	N	Y	N	N
+83	D11	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.617	26.617					true	0.040	true	1	45						1.082	0.941	N	N	N	N	Y	N	N
+83	D11	false	10^5	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	24.773	24.773					true	0.130	true	1	45						1.213	0.841	N	N	N	N	Y	N	N
+84	D12	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.620	26.620					true	0.040	true	1	45						1.070	0.919	N	N	N	N	Y	N	N
+84	D12	false	10^5	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	23.730	23.730					true	0.114	true	1	45						1.203	0.963	N	N	N	N	Y	N	N
+85	D13	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.051	26.051					true	0.040	true	1	45						1.086	0.919	N	N	N	N	Y	N	N
+85	D13	false	10^5	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	19.241	19.241					true	0.162	true	1	45						1.280	0.892	N	N	N	N	Y	N	N
+86	D14	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.284	25.284					true	0.040	true	1	45						1.089	0.945	N	N	N	N	Y	N	N
+86	D14	false	10^5	rotavirus	UNKNOWN	FAM	NFQ-MGB	23.852	23.852					true	0.164	true	1	45						1.348	0.931	N	N	N	N	Y	N	N
+87	D15	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	24.913	24.913					true	0.040	true	1	45						1.079	0.910	N	N	N	N	Y	N	N
+87	D15	false	10^5	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	19.650	19.650					true	0.304	true	1	45						1.431	0.922	N	N	N	N	Y	N	N
+88	D16	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.406	26.406					true	0.040	true	1	45						1.072	0.972	N	N	N	N	Y	N	N
+88	D16	false	10^5	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	21.336	21.336					true	0.041	true	1	45						1.252	0.958	N	N	N	N	Y	N	N
+89	D17	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	24.966	24.966					true	0.040	true	1	45						1.004	0.694	N	N	N	N	Y	N	N
+89	D17	false	10^5	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	22.219	22.219					true	0.217	true	1	45						1.328	0.947	N	N	N	N	Y	N	N
+90	D18	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.700	26.700					true	0.040	true	1	45						1.063	0.959	N	N	N	N	Y	N	N
+90	D18	false	10^5	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	19.031	19.031					true	0.189	true	1	45						1.334	0.988	N	N	N	N	Y	N	N
+91	D19	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.639	25.639					true	0.040	true	1	45						1.030	0.930	N	N	N	N	Y	N	Y
+91	D19	false	10^5	stec_stx1	UNKNOWN	FAM	NFQ-MGB	20.691	20.691					true	0.238	true	1	45						1.396	0.979	N	N	N	N	Y	N	Y
+92	D20	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.819	26.819					true	0.040	true	1	45						1.061	0.897	N	N	N	N	Y	N	N
+92	D20	false	10^5	stec_stx2	UNKNOWN	FAM	NFQ-MGB	20.173	20.173					true	0.161	true	1	45						1.303	0.934	N	N	N	N	Y	N	N
+93	D21	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	25.297	25.297					true	0.040	true	1	45						0.962	0.526	N	N	N	N	Y	N	N
+93	D21	false	10^5	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	18.960	18.960					true	0.217	true	1	45						1.449	0.987	N	N	N	N	Y	N	N
+94	D22	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	27.460	27.460					true	0.040	true	1	45						0.938	0.696	N	N	N	N	Y	N	N
+94	D22	false	10^5	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	20.166	20.166					true	0.378	true	1	45						1.458	0.941	N	N	N	N	Y	N	N
+95	D23	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	26.151	26.151					true	0.040	true	1	45						1.043	0.930	N	N	N	N	Y	N	N
+95	D23	false	10^5	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	18.849	18.849					true	0.101	true	1	45						1.195	0.859	N	N	N	N	Y	N	N
+96	D24	false	10^5	IPC	UNKNOWN	VIC	NFQ-MGB	27.002	27.002					true	0.040	true	1	45						1.018	0.890	N	N	N	N	Y	N	N
+96	D24	false	10^5	zika	UNKNOWN	FAM	NFQ-MGB	24.606	24.606					true	0.216	true	1	45						1.339	0.960	N	N	N	N	Y	N	N
+97	E1	false	10^4	16s	UNKNOWN	FAM	NFQ-MGB	16.643	16.643					true	0.040	true	1	45						1.016	0.578	N	N	N	N	Y	N	N
+97	E1	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.438	26.438					true	0.040	true	1	45						1.062	0.938	N	N	N	N	Y	N	N
+98	E2	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.674	25.674					true	0.040	true	1	45						1.063	0.957	N	N	N	N	Y	N	N
+98	E2	false	10^4	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	17.987	17.987					true	0.133	true	1	45						1.256	0.785	N	N	N	N	Y	N	N
+99	E3	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.948	25.948					true	0.040	true	1	45						1.074	0.894	N	N	N	N	Y	N	N
+99	E3	false	10^4	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	17.347	17.347					true	0.059	true	1	45						1.101	0.555	N	N	N	N	Y	N	N
+100	E4	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.107	25.107					true	0.040	true	1	45						1.052	0.866	N	N	N	N	Y	N	N
+100	E4	false	10^4	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	22.422	22.422					true	0.207	true	1	45						1.375	0.905	N	N	N	N	Y	N	N
+101	E5	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	27.228	27.228					true	0.040	true	1	45						1.075	0.926	N	N	N	Y	Y	N	N
+101	E5	false	10^4	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+102	E6	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.295	26.295					true	0.040	true	1	45						1.077	0.962	N	N	N	N	Y	N	N
+102	E6	false	10^4	astrovirus	UNKNOWN	FAM	NFQ-MGB	28.803	28.803					true	0.118	true	1	45						1.241	0.841	N	N	N	N	Y	N	N
+103	E7	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.359	26.359					true	0.040	true	1	45						1.030	0.957	N	N	N	N	Y	N	N
+103	E7	false	10^4	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	20.479	20.479					true	0.410	true	1	45						1.445	0.965	N	N	N	N	Y	N	N
+104	E8	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.701	26.701					true	0.040	true	1	45						1.073	0.858	N	N	N	N	Y	N	N
+104	E8	false	10^4	bhv	UNKNOWN	FAM	NFQ-MGB	19.224	19.224					true	0.040	true	1	45						0.972	0.399	N	N	N	N	Y	N	N
+105	E9	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.210	26.210					true	0.040	true	1	45						1.036	0.940	N	N	N	N	Y	N	N
+105	E9	false	10^4	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	21.851	21.851					true	0.040	true	1	45						1.082	0.883	N	N	N	N	Y	N	N
+106	E10	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.368	26.368					true	0.040	true	1	45						1.101	0.947	N	N	N	N	Y	N	N
+106	E10	false	10^4	brsv	UNKNOWN	FAM	NFQ-MGB	27.986	27.986					true	0.252	true	1	45						1.363	0.952	N	N	N	N	Y	N	N
+107	E11	false	10^4	18s	UNKNOWN	FAM	NFQ-MGB	32.053	32.053					true	0.139	true	1	45						1.259	0.957	N	N	N	N	Y	N	N
+107	E11	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.536	26.536					true	0.040	true	1	45						1.080	0.948	N	N	N	N	Y	N	N
+108	E12	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.283	26.283					true	0.040	true	1	45						1.064	0.929	N	N	N	N	Y	N	N
+108	E12	false	10^4	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	18.632	18.632					true	0.161	true	1	45						1.352	0.955	N	N	N	N	Y	N	N
+109	E13	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.277	26.277					true	0.040	true	1	45						0.967	0.691	N	N	N	N	Y	N	N
+109	E13	false	10^4	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	20.915	20.915					true	0.160	true	1	45						1.345	0.935	N	N	N	N	Y	N	N
+110	E14	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.919	25.919					true	0.040	true	1	45						1.071	0.924	N	N	N	N	Y	N	N
+110	E14	false	10^4	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	18.440	18.440					true	0.070	true	1	45						1.208	0.931	N	N	N	N	Y	N	N
+111	E15	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	24.735	24.735					true	0.040	true	1	45						1.091	0.958	N	N	N	N	Y	N	N
+111	E15	false	10^4	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	20.449	20.449					true	0.161	true	1	45						1.297	0.787	N	N	N	N	Y	N	N
+112	E16	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	27.021	27.021					true	0.040	true	1	45						1.084	0.884	N	N	N	N	Y	N	N
+112	E16	false	10^4	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	29.681	29.681					true	0.258	true	1	45						1.353	0.961	N	N	N	N	Y	N	N
+113	E17	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	Undetermined						true	0.040	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+113	E17	false	10^4	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	16.668	16.668					true	0.106	true	1	45						1.359	0.905	N	N	N	Y	Y	N	N
+114	E18	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.104	26.104					true	0.040	true	1	45						1.066	0.965	N	N	N	N	Y	N	N
+114	E18	false	10^4	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	19.050	19.050					true	0.051	true	1	45						1.208	0.638	N	N	N	N	Y	N	N
+115	E19	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.622	26.622					true	0.040	true	1	45						1.027	0.898	N	N	N	N	Y	N	N
+115	E19	false	10^4	eaec_aata	UNKNOWN	FAM	NFQ-MGB	17.408	17.408					true	0.040	true	1	45						1.029	0.656	N	N	N	N	Y	N	N
+116	E20	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.614	26.614					true	0.040	true	1	45						1.064	0.937	N	N	N	N	Y	N	N
+116	E20	false	10^4	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	22.836	22.836					true	0.119	true	1	45						1.199	0.828	N	N	N	N	Y	N	N
+117	E21	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.062	25.062					true	0.040	true	1	45						1.031	0.908	N	N	N	N	Y	N	N
+117	E21	false	10^4	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	20.933	20.933					true	0.248	true	1	45						1.395	0.943	N	N	N	N	Y	N	N
+118	E22	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.430	26.430					true	0.040	true	1	45						1.057	0.948	N	N	N	N	Y	N	N
+118	E22	false	10^4	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	23.030	23.030					true	0.181	true	1	45						1.297	0.941	N	N	N	N	Y	N	N
+119	E23	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.656	26.656					true	0.040	true	1	45						1.011	0.931	N	N	N	N	Y	N	N
+119	E23	false	10^4	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	22.280	22.280					true	0.122	true	1	45						1.261	0.895	N	N	N	N	Y	N	N
+120	E24	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.278	25.278					true	0.040	true	1	45						1.078	0.921	N	N	N	N	Y	N	N
+120	E24	false	10^4	epec_eae	UNKNOWN	FAM	NFQ-MGB	22.997	22.997					true	0.168	true	1	45						1.298	0.954	N	N	N	N	Y	N	N
+121	F1	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.154	26.154					true	0.040	true	1	45						0.889	0.877	N	N	N	N	Y	N	N
+121	F1	false	10^4	etec_lt	UNKNOWN	FAM	NFQ-MGB	22.641	22.641					true	0.185	true	1	45						1.341	0.872	N	N	N	N	Y	N	N
+122	F2	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.428	26.428					true	0.040	true	1	45						1.050	0.951	N	N	N	N	Y	N	N
+122	F2	false	10^4	etec_sth	UNKNOWN	FAM	NFQ-MGB	23.323	23.323					true	0.221	true	1	45						1.362	0.969	N	N	N	N	Y	N	N
+123	F3	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.884	25.884					true	0.040	true	1	45						1.058	0.892	N	N	N	N	Y	N	N
+123	F3	false	10^4	etec_stp	UNKNOWN	FAM	NFQ-MGB	22.401	22.401					true	0.065	true	1	45						1.144	0.839	N	N	N	N	Y	N	N
+124	F4	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	24.916	24.916					true	0.040	true	1	45						1.036	0.939	N	N	N	N	Y	N	N
+124	F4	false	10^4	giardia_spp	UNKNOWN	FAM	NFQ-MGB	22.027	22.027					true	0.149	true	1	45						1.256	0.752	N	N	N	N	Y	N	N
+125	F5	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	24.442	24.442					true	0.040	true	1	45						1.055	0.932	N	N	N	N	Y	N	N
+125	F5	false	10^4	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	21.839	21.839					true	0.139	true	1	45						1.225	0.787	N	N	N	N	Y	N	N
+126	F6	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.215	26.215					true	0.040	true	1	45						1.082	0.969	N	N	N	N	Y	N	N
+126	F6	false	10^4	hep_a	UNKNOWN	FAM	NFQ-MGB	27.028	27.028					true	0.130	true	1	45						1.220	0.835	N	N	N	N	Y	N	N
+127	F7	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.641	26.641					true	0.040	true	1	45						1.104	0.947	N	N	N	N	Y	N	N
+127	F7	false	10^4	hep_g	UNKNOWN	FAM	NFQ-MGB	27.224	27.224					true	0.230	true	1	45						1.341	0.941	N	N	N	N	Y	N	N
+128	F8	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.438	26.438					true	0.040	true	1	45						1.077	0.897	N	N	N	N	Y	N	N
+128	F8	false	10^4	hf183	UNKNOWN	FAM	NFQ-MGB	22.891	22.891					true	0.179	true	1	45						1.290	0.890	N	N	N	N	Y	N	N
+129	F9	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.699	25.699					true	0.040	true	1	45						1.083	0.950	N	N	N	N	Y	N	N
+129	F9	false	10^4	human_mtdna	UNKNOWN	FAM	NFQ-MGB	23.057	23.057					true	0.127	true	1	45						1.203	0.852	N	N	N	N	Y	N	N
+130	F10	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.476	26.476					true	0.040	true	1	45						1.041	0.932	N	N	N	N	Y	N	N
+130	F10	false	10^4	necator_americanus	UNKNOWN	FAM	NFQ-MGB	25.638	25.638					true	0.113	true	1	45						1.213	0.848	N	N	N	N	Y	N	N
+131	F11	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.737	26.737					true	0.040	true	1	45						1.086	0.924	N	N	N	N	Y	N	N
+131	F11	false	10^4	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	28.170	28.170					true	0.130	true	1	45						1.204	0.915	N	N	N	N	Y	N	N
+132	F12	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.775	26.775					true	0.040	true	1	45						1.082	0.929	N	N	N	N	Y	N	N
+132	F12	false	10^4	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	27.415	27.415					true	0.114	true	1	45						1.208	0.874	N	N	N	N	Y	N	N
+133	F13	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.274	26.274					true	0.040	true	1	45						1.091	0.932	N	N	N	N	Y	N	N
+133	F13	false	10^4	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	22.440	22.440					true	0.162	true	1	45						1.277	0.881	N	N	N	N	Y	N	N
+134	F14	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.437	26.437					true	0.040	true	1	45						1.101	0.947	N	N	N	N	Y	N	N
+134	F14	false	10^4	rotavirus	UNKNOWN	FAM	NFQ-MGB	28.330	28.330					true	0.164	true	1	45						1.298	0.867	N	N	N	N	Y	N	N
+135	F15	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.632	25.632					true	0.040	true	1	45						1.080	0.943	N	N	N	N	Y	N	N
+135	F15	false	10^4	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	23.069	23.069					true	0.304	true	1	45						1.395	0.918	N	N	N	N	Y	N	N
+136	F16	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.450	26.450					true	0.040	true	1	45						1.083	0.888	N	N	N	N	Y	N	Y
+136	F16	false	10^4	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	25.858	25.858					true	0.041	true	1	45						1.227	0.861	N	N	N	N	Y	N	Y
+137	F17	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.037	26.037					true	0.040	true	1	45						1.066	0.953	N	N	N	N	Y	N	N
+137	F17	false	10^4	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	25.466	25.466					true	0.217	true	1	45						1.333	0.922	N	N	N	N	Y	N	N
+138	F18	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.943	25.943					true	0.040	true	1	45						1.079	0.957	N	N	N	N	Y	N	N
+138	F18	false	10^4	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	22.656	22.656					true	0.189	true	1	45						1.310	0.987	N	N	N	N	Y	N	N
+139	F19	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.463	25.463					true	0.040	true	1	45						1.076	0.953	N	N	N	N	Y	N	N
+139	F19	false	10^4	stec_stx1	UNKNOWN	FAM	NFQ-MGB	24.048	24.048					true	0.238	true	1	45						1.393	0.956	N	N	N	N	Y	N	N
+140	F20	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.212	26.212					true	0.040	true	1	45						1.082	0.953	N	N	N	N	Y	N	N
+140	F20	false	10^4	stec_stx2	UNKNOWN	FAM	NFQ-MGB	23.146	23.146					true	0.161	true	1	45						1.299	0.978	N	N	N	N	Y	N	N
+141	F21	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.687	25.687					true	0.040	true	1	45						1.005	0.901	N	N	N	N	Y	N	N
+141	F21	false	10^4	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	22.675	22.675					true	0.217	true	1	45						1.417	0.986	N	N	N	N	Y	N	N
+142	F22	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	25.741	25.741					true	0.040	true	1	45						1.024	0.912	N	N	N	N	Y	N	N
+142	F22	false	10^4	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	23.447	23.447					true	0.378	true	1	45						1.462	0.956	N	N	N	N	Y	N	N
+143	F23	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.511	26.511					true	0.040	true	1	45						1.073	0.828	N	N	N	N	Y	N	N
+143	F23	false	10^4	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	21.845	21.845					true	0.101	true	1	45						1.216	0.829	N	N	N	N	Y	N	N
+144	F24	false	10^4	IPC	UNKNOWN	VIC	NFQ-MGB	26.842	26.842					true	0.040	true	1	45						1.057	0.930	N	N	N	N	Y	N	N
+144	F24	false	10^4	zika	UNKNOWN	FAM	NFQ-MGB	27.944	27.944					true	0.216	true	1	45						1.329	0.981	N	N	N	N	Y	N	N
+145	G1	false	10^3	16s	UNKNOWN	FAM	NFQ-MGB	22.394	22.394					true	0.040	true	1	45						1.015	0.678	N	N	N	N	Y	N	N
+145	G1	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.479	26.479					true	0.040	true	1	45						1.064	0.964	N	N	N	N	Y	N	N
+146	G2	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.719	26.719					true	0.040	true	1	45						1.055	0.925	N	N	N	N	Y	N	N
+146	G2	false	10^3	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	23.076	23.076					true	0.133	true	1	45						1.258	0.833	N	N	N	N	Y	N	N
+147	G3	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.968	26.968					true	0.040	true	1	45						1.078	0.914	N	N	N	N	Y	N	N
+147	G3	false	10^3	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	22.693	22.693					true	0.059	true	1	45						1.112	0.664	N	N	N	N	Y	N	N
+148	G4	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	25.366	25.366					true	0.040	true	1	45						1.074	0.931	N	N	N	N	Y	N	N
+148	G4	false	10^3	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	24.497	24.497					true	0.207	true	1	45						1.354	0.978	N	N	N	N	Y	N	N
+149	G5	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.937	26.937					true	0.040	true	1	45						1.076	0.892	N	N	N	Y	Y	N	N
+149	G5	false	10^3	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+150	G6	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.924	26.924					true	0.040	true	1	45						1.091	0.934	N	N	N	N	Y	N	N
+150	G6	false	10^3	astrovirus	UNKNOWN	FAM	NFQ-MGB	32.602	32.602					true	0.118	true	1	45						1.267	0.832	N	N	N	N	Y	N	N
+151	G7	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.113	26.113					true	0.040	true	1	45						1.062	0.933	N	N	N	N	Y	N	N
+151	G7	false	10^3	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	24.963	24.963					true	0.410	true	1	45						1.465	0.985	N	N	N	N	Y	N	N
+152	G8	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.408	26.408					true	0.040	true	1	45						1.078	0.952	N	N	N	N	Y	N	N
+152	G8	false	10^3	bhv	UNKNOWN	FAM	NFQ-MGB	25.653	25.653					true	0.040	true	1	45						0.997	0.616	N	N	N	N	Y	N	N
+153	G9	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.828	26.828					true	0.040	true	1	45						1.055	0.934	N	N	N	N	Y	N	N
+153	G9	false	10^3	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	26.136	26.136					true	0.040	true	1	45						1.107	0.755	N	N	N	N	Y	N	N
+154	G10	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	27.106	27.106					true	0.040	true	1	45						1.088	0.904	N	N	N	N	Y	N	N
+154	G10	false	10^3	brsv	UNKNOWN	FAM	NFQ-MGB	31.460	31.460					true	0.252	true	1	45						1.373	0.931	N	N	N	N	Y	N	N
+155	G11	false	10^3	18s	UNKNOWN	FAM	NFQ-MGB	32.523	32.523					true	0.139	true	1	45						1.252	0.958	N	N	N	N	Y	N	N
+155	G11	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	27.216	27.216					true	0.040	true	1	45						1.091	0.910	N	N	N	N	Y	N	N
+156	G12	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	25.851	25.851					true	0.040	true	1	45						1.079	0.938	N	N	N	N	Y	N	N
+156	G12	false	10^3	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	24.601	24.601					true	0.161	true	1	45						1.336	0.951	N	N	N	N	Y	N	N
+157	G13	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	24.930	24.930					true	0.040	true	1	45						0.988	0.699	N	N	N	N	Y	N	N
+157	G13	false	10^3	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	22.433	22.433					true	0.160	true	1	45						1.347	0.922	N	N	N	N	Y	N	N
+158	G14	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.457	26.457					true	0.040	true	1	45						1.082	0.923	N	N	N	N	Y	N	N
+158	G14	false	10^3	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	22.998	22.998					true	0.070	true	1	45						1.200	0.971	N	N	N	N	Y	N	N
+159	G15	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.352	26.352					true	0.040	true	1	45						1.065	0.907	N	N	N	N	Y	N	N
+159	G15	false	10^3	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	24.032	24.032					true	0.161	true	1	45						1.283	0.866	N	N	N	N	Y	N	N
+160	G16	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.545	26.545					true	0.040	true	1	45						1.078	0.881	N	N	N	N	Y	N	N
+160	G16	false	10^3	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	32.406	32.406					true	0.258	true	1	45						1.342	0.964	N	N	N	N	Y	N	N
+161	G17	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.411	26.411					true	0.040	true	1	45						0.928	0.710	N	N	N	N	Y	N	N
+161	G17	false	10^3	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	22.960	22.960					true	0.106	true	1	45						1.368	0.972	N	N	N	N	Y	N	N
+162	G18	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.438	26.438					true	0.040	true	1	45						1.068	0.913	N	N	N	N	Y	N	N
+162	G18	false	10^3	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	22.875	22.875					true	0.051	true	1	45						1.210	0.828	N	N	N	N	Y	N	N
+163	G19	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.429	26.429					true	0.040	true	1	45						1.044	0.954	N	N	N	N	Y	N	N
+163	G19	false	10^3	eaec_aata	UNKNOWN	FAM	NFQ-MGB	22.145	22.145					true	0.040	true	1	45						1.023	0.901	N	N	N	N	Y	N	N
+164	G20	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.659	26.659					true	0.040	true	1	45						1.072	0.931	N	N	N	N	Y	N	N
+164	G20	false	10^3	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	21.902	21.902					true	0.119	true	1	45						1.213	0.797	N	N	N	N	Y	N	N
+165	G21	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	25.752	25.752					true	0.040	true	1	45						1.062	0.943	N	N	N	N	Y	N	N
+165	G21	false	10^3	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	23.973	23.973					true	0.248	true	1	45						1.413	0.932	N	N	N	N	Y	N	N
+166	G22	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.831	26.831					true	0.040	true	1	45						1.056	0.933	N	N	N	N	Y	N	N
+166	G22	false	10^3	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	26.407	26.407					true	0.181	true	1	45						1.293	0.888	N	N	N	N	Y	N	N
+167	G23	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.232	26.232					true	0.040	true	1	45						1.054	0.944	N	N	N	N	Y	N	N
+167	G23	false	10^3	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	24.705	24.705					true	0.122	true	1	45						1.246	0.993	N	N	N	N	Y	N	N
+168	G24	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.397	26.397					true	0.040	true	1	45						1.069	0.921	N	N	N	N	Y	N	N
+168	G24	false	10^3	epec_eae	UNKNOWN	FAM	NFQ-MGB	25.747	25.747					true	0.168	true	1	45						1.326	0.989	N	N	N	N	Y	N	N
+169	H1	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.900	26.900					true	0.040	true	1	45						0.762	0.930	N	N	N	N	Y	N	N
+169	H1	false	10^3	etec_lt	UNKNOWN	FAM	NFQ-MGB	25.074	25.074					true	0.185	true	1	45						1.309	0.989	N	N	N	N	Y	N	N
+170	H2	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.123	26.123					true	0.040	true	1	45						1.062	0.959	N	N	N	N	Y	N	N
+170	H2	false	10^3	etec_sth	UNKNOWN	FAM	NFQ-MGB	26.408	26.408					true	0.221	true	1	45						1.359	0.983	N	N	N	N	Y	N	N
+171	H3	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.575	26.575					true	0.040	true	1	45						1.084	0.906	N	N	N	N	Y	N	N
+171	H3	false	10^3	etec_stp	UNKNOWN	FAM	NFQ-MGB	24.936	24.936					true	0.065	true	1	45						1.130	0.972	N	N	N	N	Y	N	N
+172	H4	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.902	26.902					true	0.040	true	1	45						1.067	0.927	N	N	N	N	Y	N	N
+172	H4	false	10^3	giardia_spp	UNKNOWN	FAM	NFQ-MGB	25.124	25.124					true	0.149	true	1	45						1.267	0.805	N	N	N	N	Y	N	N
+173	H5	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.717	26.717					true	0.040	true	1	45						1.071	0.915	N	N	N	N	Y	N	N
+173	H5	false	10^3	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	25.578	25.578					true	0.139	true	1	45						1.226	0.950	N	N	N	N	Y	N	N
+174	H6	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.610	26.610					true	0.040	true	1	45						1.083	0.911	N	N	N	N	Y	N	N
+174	H6	false	10^3	hep_a	UNKNOWN	FAM	NFQ-MGB	30.561	30.561					true	0.130	true	1	45						1.230	0.973	N	N	N	N	Y	N	N
+175	H7	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	25.924	25.924					true	0.040	true	1	45						1.112	0.977	N	N	N	N	Y	N	N
+175	H7	false	10^3	hep_g	UNKNOWN	FAM	NFQ-MGB	27.264	27.264					true	0.230	true	1	45						1.338	0.988	N	N	N	N	Y	N	N
+176	H8	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.544	26.544					true	0.040	true	1	45						1.090	0.894	N	N	N	N	Y	N	N
+176	H8	false	10^3	hf183	UNKNOWN	FAM	NFQ-MGB	26.016	26.016					true	0.179	true	1	45						1.311	0.982	N	N	N	N	Y	N	N
+177	H9	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.418	26.418					true	0.040	true	1	45						1.097	0.941	N	N	N	N	Y	N	N
+177	H9	false	10^3	human_mtdna	UNKNOWN	FAM	NFQ-MGB	26.085	26.085					true	0.127	true	1	45						1.205	0.855	N	N	N	N	Y	N	N
+178	H10	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.527	26.527					true	0.040	true	1	45						1.083	0.916	N	N	N	N	Y	N	N
+178	H10	false	10^3	necator_americanus	UNKNOWN	FAM	NFQ-MGB	28.295	28.295					true	0.113	true	1	45						1.229	0.950	N	N	N	N	Y	N	N
+179	H11	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.884	26.884					true	0.040	true	1	45						1.084	0.961	N	N	N	N	Y	N	N
+179	H11	false	10^3	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	30.812	30.812					true	0.130	true	1	45						1.192	0.980	N	N	N	N	Y	N	N
+180	H12	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	27.026	27.026					true	0.040	true	1	45						1.086	0.940	N	N	N	N	Y	N	N
+180	H12	false	10^3	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	30.364	30.364					true	0.114	true	1	45						1.211	0.936	N	N	N	N	Y	N	N
+181	H13	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.622	26.622					true	0.040	true	1	45						1.087	0.951	N	N	N	N	Y	N	N
+181	H13	false	10^3	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	25.767	25.767					true	0.162	true	1	45						1.282	0.943	N	N	N	N	Y	N	N
+182	H14	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.538	26.538					true	0.040	true	1	45						1.100	0.938	N	N	N	N	Y	N	N
+182	H14	false	10^3	rotavirus	UNKNOWN	FAM	NFQ-MGB	30.486	30.486					true	0.164	true	1	45						1.327	0.974	N	N	N	N	Y	N	N
+183	H15	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	25.890	25.890					true	0.040	true	1	45						1.101	0.960	N	N	N	N	Y	N	N
+183	H15	false	10^3	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	26.183	26.183					true	0.304	true	1	45						1.400	0.934	N	N	N	N	Y	N	N
+184	H16	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.762	26.762					true	0.040	true	1	45						1.084	0.917	N	N	N	N	Y	N	N
+184	H16	false	10^3	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	28.277	28.277					true	0.041	true	1	45						1.186	0.939	N	N	N	N	Y	N	N
+185	H17	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.936	26.936					true	0.040	true	1	45						1.098	0.948	N	N	N	N	Y	N	N
+185	H17	false	10^3	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	28.823	28.823					true	0.217	true	1	45						1.346	0.973	N	N	N	N	Y	N	N
+186	H18	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.076	26.076					true	0.040	true	1	45						1.069	0.927	N	N	N	N	Y	N	N
+186	H18	false	10^3	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	25.630	25.630					true	0.189	true	1	45						1.305	0.969	N	N	N	N	Y	N	N
+187	H19	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	27.087	27.087					true	0.040	true	1	45						1.087	0.943	N	N	N	N	Y	N	N
+187	H19	false	10^3	stec_stx1	UNKNOWN	FAM	NFQ-MGB	27.092	27.092					true	0.238	true	1	45						1.394	0.976	N	N	N	N	Y	N	N
+188	H20	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.183	26.183					true	0.040	true	1	45						1.103	0.956	N	N	N	N	Y	N	N
+188	H20	false	10^3	stec_stx2	UNKNOWN	FAM	NFQ-MGB	26.335	26.335					true	0.161	true	1	45						1.302	0.984	N	N	N	N	Y	N	N
+189	H21	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.588	26.588					true	0.040	true	1	45						1.061	0.913	N	N	N	N	Y	N	N
+189	H21	false	10^3	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	25.779	25.779					true	0.217	true	1	45						1.420	0.964	N	N	N	N	Y	N	N
+190	H22	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.747	26.747					true	0.040	true	1	45						1.047	0.910	N	N	N	N	Y	N	N
+190	H22	false	10^3	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	26.590	26.590					true	0.378	true	1	45						1.451	0.986	N	N	N	N	Y	N	N
+191	H23	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.653	26.653					true	0.040	true	1	45						1.074	0.916	N	N	N	N	Y	N	N
+191	H23	false	10^3	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	25.132	25.132					true	0.101	true	1	45						1.199	0.976	N	N	N	N	Y	N	N
+192	H24	false	10^3	IPC	UNKNOWN	VIC	NFQ-MGB	26.740	26.740					true	0.040	true	1	45						1.056	0.928	N	N	N	N	Y	N	N
+192	H24	false	10^3	zika	UNKNOWN	FAM	NFQ-MGB	30.296	30.296					true	0.216	true	1	45						1.314	0.944	N	N	N	N	Y	N	N
+193	I1	false	10^2	16s	UNKNOWN	FAM	NFQ-MGB	25.752	25.752					true	0.040	true	1	45						1.009	0.789	N	N	N	N	Y	N	N
+193	I1	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.999	26.999					true	0.040	true	1	45						1.066	0.960	N	N	N	N	Y	N	N
+194	I2	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	27.140	27.140					true	0.040	true	1	45						1.070	0.899	N	N	N	N	Y	N	N
+194	I2	false	10^2	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	25.882	25.882					true	0.133	true	1	45						1.261	0.935	N	N	N	N	Y	N	N
+195	I3	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.778	26.778					true	0.040	true	1	45						1.083	0.880	N	N	N	N	Y	N	N
+195	I3	false	10^2	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	25.536	25.536					true	0.059	true	1	45						1.108	0.648	N	N	N	N	Y	N	N
+196	I4	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.753	26.753					true	0.040	true	1	45						1.075	0.945	N	N	N	N	Y	N	N
+196	I4	false	10^2	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	27.964	27.964					true	0.207	true	1	45						1.382	0.937	N	N	N	N	Y	N	N
+197	I5	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	27.010	27.010					true	0.040	true	1	45						1.082	0.880	N	N	N	Y	Y	N	N
+197	I5	false	10^2	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+198	I6	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.858	26.858					true	0.040	true	1	45						1.081	0.916	N	N	N	N	Y	N	N
+198	I6	false	10^2	astrovirus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.118	true	1	45						0.000	0.000	N	N	N	N	Y	N	N
+199	I7	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.701	26.701					true	0.040	true	1	45						1.082	0.912	N	N	N	N	Y	N	N
+199	I7	false	10^2	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	27.246	27.246					true	0.410	true	1	45						1.465	0.966	N	N	N	N	Y	N	N
+200	I8	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	27.070	27.070					true	0.040	true	1	45						1.082	0.932	N	N	N	N	Y	N	N
+200	I8	false	10^2	bhv	UNKNOWN	FAM	NFQ-MGB	27.920	27.920					true	0.040	true	1	45						0.967	0.648	N	N	N	N	Y	N	N
+201	I9	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.943	26.943					true	0.040	true	1	45						1.070	0.889	N	N	N	N	Y	N	N
+201	I9	false	10^2	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	27.948	27.948					true	0.040	true	1	45						1.107	0.925	N	N	N	N	Y	N	N
+202	I10	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.838	26.838					true	0.040	true	1	45						1.094	0.947	N	N	N	N	Y	N	N
+202	I10	false	10^2	brsv	UNKNOWN	FAM	NFQ-MGB	34.802	34.802					true	0.252	true	1	45						1.362	0.979	N	N	N	N	Y	N	N
+203	I11	false	10^2	18s	UNKNOWN	FAM	NFQ-MGB	30.924	30.924					true	0.139	true	1	45						1.231	0.933	N	N	N	N	Y	N	N
+203	I11	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.983	26.983					true	0.040	true	1	45						1.063	0.936	N	N	N	N	Y	N	N
+204	I12	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	27.023	27.023					true	0.040	true	1	45						1.080	0.899	N	N	N	N	Y	N	N
+204	I12	false	10^2	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	27.479	27.479					true	0.161	true	1	45						1.338	0.917	N	N	N	N	Y	N	N
+205	I13	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.430	26.430					true	0.040	true	1	45						1.060	0.913	N	N	N	N	Y	N	N
+205	I13	false	10^2	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	26.228	26.228					true	0.160	true	1	45						1.327	0.917	N	N	N	N	Y	N	N
+206	I14	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	25.753	25.753					true	0.040	true	1	45						1.090	0.926	N	N	N	N	Y	N	N
+206	I14	false	10^2	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	26.906	26.906					true	0.070	true	1	45						1.190	0.849	N	N	N	N	Y	N	N
+207	I15	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.316	26.316					true	0.040	true	1	45						1.101	0.911	N	N	N	N	Y	N	N
+207	I15	false	10^2	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	25.668	25.668					true	0.161	true	1	45						1.281	0.923	N	N	N	N	Y	N	N
+208	I16	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.339	26.339					true	0.040	true	1	45						1.082	0.909	N	N	N	N	Y	N	N
+208	I16	false	10^2	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	34.792	34.792					true	0.258	true	1	45						1.348	0.943	N	N	N	N	Y	N	N
+209	I17	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.662	26.662					true	0.040	true	1	45						1.004	0.924	N	N	N	N	Y	N	N
+209	I17	false	10^2	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	25.541	25.541					true	0.106	true	1	45						1.357	0.947	N	N	N	N	Y	N	N
+210	I18	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.488	26.488					true	0.040	true	1	45						1.081	0.930	N	N	N	N	Y	N	N
+210	I18	false	10^2	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	25.808	25.808					true	0.051	true	1	45						1.185	0.803	N	N	N	N	Y	N	N
+211	I19	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.796	26.796					true	0.040	true	1	45						1.069	0.933	N	N	N	N	Y	N	N
+211	I19	false	10^2	eaec_aata	UNKNOWN	FAM	NFQ-MGB	25.850	25.850					true	0.040	true	1	45						1.018	0.662	N	N	N	N	Y	N	N
+212	I20	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.899	26.899					true	0.040	true	1	45						1.078	0.959	N	N	N	N	Y	N	N
+212	I20	false	10^2	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	27.974	27.974					true	0.119	true	1	45						1.232	0.875	N	N	N	N	Y	N	N
+213	I21	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.896	26.896					true	0.040	true	1	45						1.067	0.950	N	N	N	N	Y	N	N
+213	I21	false	10^2	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	27.501	27.501					true	0.248	true	1	45						1.414	0.911	N	N	N	N	Y	N	N
+214	I22	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.762	26.762					true	0.040	true	1	45						1.061	0.955	N	N	N	N	Y	N	N
+214	I22	false	10^2	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	29.858	29.858					true	0.181	true	1	45						1.297	0.936	N	N	N	N	Y	N	N
+215	I23	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.571	26.571					true	0.040	true	1	45						1.061	0.951	N	N	N	N	Y	N	N
+215	I23	false	10^2	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	28.203	28.203					true	0.122	true	1	45						1.251	0.951	N	N	N	N	Y	N	N
+216	I24	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.647	26.647					true	0.040	true	1	45						1.082	0.908	N	N	N	N	Y	N	N
+216	I24	false	10^2	epec_eae	UNKNOWN	FAM	NFQ-MGB	29.351	29.351					true	0.168	true	1	45						1.329	0.916	N	N	N	N	Y	N	N
+217	J1	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.707	26.707					true	0.040	true	1	45						0.540	0.477	N	N	N	N	Y	N	N
+217	J1	false	10^2	etec_lt	UNKNOWN	FAM	NFQ-MGB	28.404	28.404					true	0.185	true	1	45						1.323	0.914	N	N	N	N	Y	N	N
+218	J2	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.752	26.752					true	0.040	true	1	45						1.085	0.936	N	N	N	N	Y	N	N
+218	J2	false	10^2	etec_sth	UNKNOWN	FAM	NFQ-MGB	29.364	29.364					true	0.221	true	1	45						1.359	0.950	N	N	N	N	Y	N	N
+219	J3	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.641	26.641					true	0.040	true	1	45						1.064	0.952	N	N	N	N	Y	N	N
+219	J3	false	10^2	etec_stp	UNKNOWN	FAM	NFQ-MGB	28.418	28.418					true	0.065	true	1	45						1.111	0.977	N	N	N	N	Y	N	N
+220	J4	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.670	26.670					true	0.040	true	1	45						1.058	0.964	N	N	N	N	Y	N	N
+220	J4	false	10^2	giardia_spp	UNKNOWN	FAM	NFQ-MGB	27.860	27.860					true	0.149	true	1	45						1.248	0.895	N	N	N	N	Y	N	N
+221	J5	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.100	26.100					true	0.040	true	1	45						1.086	0.962	N	N	N	N	Y	N	N
+221	J5	false	10^2	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	28.131	28.131					true	0.139	true	1	45						1.221	0.974	N	N	N	N	Y	N	N
+222	J6	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	27.742	27.742					true	0.040	true	1	45						1.092	0.962	N	N	N	N	Y	N	N
+222	J6	false	10^2	hep_a	UNKNOWN	FAM	NFQ-MGB	32.978	32.978					true	0.130	true	1	45						1.221	0.916	N	N	N	N	Y	N	N
+223	J7	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.765	26.765					true	0.040	true	1	45						1.098	0.964	N	N	N	N	Y	N	N
+223	J7	false	10^2	hep_g	UNKNOWN	FAM	NFQ-MGB	27.193	27.193					true	0.230	true	1	45						1.342	0.991	N	N	N	N	Y	N	N
+224	J8	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.753	26.753					true	0.040	true	1	45						1.082	0.941	N	N	N	N	Y	N	N
+224	J8	false	10^2	hf183	UNKNOWN	FAM	NFQ-MGB	28.611	28.611					true	0.179	true	1	45						1.304	0.978	N	N	N	N	Y	N	N
+225	J9	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.529	26.529					true	0.040	true	1	45						1.100	0.952	N	N	N	N	Y	N	N
+225	J9	false	10^2	human_mtdna	UNKNOWN	FAM	NFQ-MGB	29.522	29.522					true	0.127	true	1	45						1.210	0.930	N	N	N	N	Y	N	N
+226	J10	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.756	26.756					true	0.040	true	1	45						1.073	0.873	N	N	N	N	Y	N	N
+226	J10	false	10^2	necator_americanus	UNKNOWN	FAM	NFQ-MGB	30.771	30.771					true	0.113	true	1	45						1.212	0.984	N	N	N	N	Y	N	N
+227	J11	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.712	26.712					true	0.040	true	1	45						1.091	0.874	N	N	N	N	Y	N	N
+227	J11	false	10^2	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	33.492	33.492					true	0.130	true	1	45						1.208	0.957	N	N	N	N	Y	N	N
+228	J12	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.728	26.728					true	0.040	true	1	45						1.075	0.913	N	N	N	N	Y	N	N
+228	J12	false	10^2	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	32.783	32.783					true	0.114	true	1	45						1.221	0.870	N	N	N	N	Y	N	N
+229	J13	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.434	26.434					true	0.040	true	1	45						1.091	0.927	N	N	N	N	Y	N	N
+229	J13	false	10^2	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	28.528	28.528					true	0.162	true	1	45						1.274	0.952	N	N	N	N	Y	N	N
+230	J14	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.805	26.805					true	0.040	true	1	45						1.090	0.902	N	N	N	N	Y	N	N
+230	J14	false	10^2	rotavirus	UNKNOWN	FAM	NFQ-MGB	34.222	34.222					true	0.164	true	1	45						1.317	0.896	N	N	N	N	Y	N	N
+231	J15	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.520	26.520					true	0.040	true	1	45						1.091	0.925	N	N	N	N	Y	N	N
+231	J15	false	10^2	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	29.161	29.161					true	0.304	true	1	45						1.379	0.938	N	N	N	N	Y	N	N
+232	J16	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.971	26.971					true	0.040	true	1	45						1.078	0.941	N	N	N	N	Y	N	N
+232	J16	false	10^2	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	29.878	29.878					true	0.041	true	1	45						1.204	0.955	N	N	N	N	Y	N	N
+233	J17	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	27.272	27.272					true	0.040	true	1	45						1.083	0.907	N	N	N	N	Y	N	N
+233	J17	false	10^2	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	31.545	31.545					true	0.217	true	1	45						1.326	0.964	N	N	N	N	Y	N	N
+234	J18	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.740	26.740					true	0.040	true	1	45						1.072	0.930	N	N	N	N	Y	N	N
+234	J18	false	10^2	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	29.211	29.211					true	0.189	true	1	45						1.290	0.894	N	N	N	N	Y	N	N
+235	J19	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.461	26.461					true	0.040	true	1	45						1.083	0.950	N	N	N	N	Y	N	N
+235	J19	false	10^2	stec_stx1	UNKNOWN	FAM	NFQ-MGB	30.591	30.591					true	0.238	true	1	45						1.379	0.979	N	N	N	N	Y	N	N
+236	J20	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.647	26.647					true	0.040	true	1	45						1.079	0.917	N	N	N	N	Y	N	N
+236	J20	false	10^2	stec_stx2	UNKNOWN	FAM	NFQ-MGB	30.034	30.034					true	0.161	true	1	45						1.302	0.900	N	N	N	N	Y	N	N
+237	J21	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.398	26.398					true	0.040	true	1	45						1.068	0.980	N	N	N	N	Y	N	N
+237	J21	false	10^2	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	29.281	29.281					true	0.217	true	1	45						1.409	0.899	N	N	N	N	Y	N	N
+238	J22	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	27.469	27.469					true	0.040	true	1	45						1.058	0.887	N	N	N	N	Y	N	N
+238	J22	false	10^2	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	29.337	29.337					true	0.378	true	1	45						1.434	0.954	N	N	N	N	Y	N	N
+239	J23	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.687	26.687					true	0.040	true	1	45						1.064	0.912	N	N	N	N	Y	N	N
+239	J23	false	10^2	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	28.546	28.546					true	0.101	true	1	45						1.184	0.954	N	N	N	N	Y	N	N
+240	J24	false	10^2	IPC	UNKNOWN	VIC	NFQ-MGB	26.751	26.751					true	0.040	true	1	45						1.063	0.916	N	N	N	N	Y	N	N
+240	J24	false	10^2	zika	UNKNOWN	FAM	NFQ-MGB	33.859	33.859					true	0.216	true	1	45						1.323	0.980	N	N	N	N	Y	N	N
+241	K1	false	10	16s	UNKNOWN	FAM	NFQ-MGB	29.237	29.237					true	0.040	true	1	45						0.949	0.798	N	N	N	N	Y	N	N
+241	K1	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.489	26.489					true	0.040	true	1	45						1.069	0.940	N	N	N	N	Y	N	N
+242	K2	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.615	26.615					true	0.040	true	1	45						1.066	0.954	N	N	N	N	Y	N	N
+242	K2	false	10	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	31.139	31.139					true	0.133	true	1	45						1.249	0.922	N	N	N	N	Y	N	N
+243	K3	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.194	27.194					true	0.040	true	1	45						1.064	0.962	N	N	N	N	Y	N	N
+243	K3	false	10	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	29.366	29.366					true	0.059	true	1	45						1.091	0.747	N	N	N	N	Y	N	N
+244	K4	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.885	26.885					true	0.040	true	1	45						1.074	0.937	N	N	N	N	Y	N	N
+244	K4	false	10	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	32.859	32.859					true	0.207	true	1	45						1.342	0.915	N	N	N	N	Y	N	N
+245	K5	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.974	26.974					true	0.040	true	1	45						1.080	0.956	N	N	N	Y	Y	N	N
+245	K5	false	10	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+246	K6	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.643	26.643					true	0.040	true	1	45						1.078	0.937	N	N	N	N	Y	N	N
+246	K6	false	10	astrovirus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.118	true	1	45						0.000	0.000	N	N	N	N	Y	N	N
+247	K7	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.778	26.778					true	0.040	true	1	45						1.078	0.932	N	N	N	N	Y	N	N
+247	K7	false	10	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	31.441	31.441					true	0.410	true	1	45						1.476	0.958	N	N	N	N	Y	N	N
+248	K8	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.886	26.886					true	0.040	true	1	45						1.082	0.949	N	N	N	N	Y	N	N
+248	K8	false	10	bhv	UNKNOWN	FAM	NFQ-MGB	31.778	31.778					true	0.040	true	1	45						0.950	0.831	N	N	N	N	Y	N	N
+249	K9	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.015	27.015					true	0.040	true	1	45						1.075	0.888	N	N	N	N	Y	N	N
+249	K9	false	10	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	32.150	32.150					true	0.040	true	1	45						1.076	0.704	N	N	N	N	Y	N	N
+250	K10	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.004	27.004					true	0.040	true	1	45						1.082	0.925	N	N	N	N	Y	N	N
+250	K10	false	10	brsv	UNKNOWN	FAM	NFQ-MGB	36.738	36.738					true	0.252	true	1	45						1.332	0.835	N	N	N	N	Y	N	N
+251	K11	false	10	18s	UNKNOWN	FAM	NFQ-MGB	32.511	32.511					true	0.139	true	1	45						1.245	0.925	N	N	N	N	Y	N	N
+251	K11	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.689	26.689					true	0.040	true	1	45						1.076	0.962	N	N	N	N	Y	N	N
+252	K12	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.966	26.966					true	0.040	true	1	45						1.087	0.927	N	N	N	N	Y	N	N
+252	K12	false	10	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	31.459	31.459					true	0.161	true	1	45						1.319	0.911	N	N	N	N	Y	N	N
+253	K13	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.093	27.093					true	0.040	true	1	45						1.076	0.898	N	N	N	N	Y	N	N
+253	K13	false	10	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	30.907	30.907					true	0.160	true	1	45						1.316	0.969	N	N	N	N	Y	N	N
+254	K14	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.754	26.754					true	0.040	true	1	45						1.078	0.927	N	N	N	N	Y	N	N
+254	K14	false	10	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	30.542	30.542					true	0.070	true	1	45						1.191	0.828	N	N	N	N	Y	N	N
+255	K15	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.758	26.758					true	0.040	true	1	45						1.083	0.922	N	N	N	N	Y	N	N
+255	K15	false	10	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	31.122	31.122					true	0.161	true	1	45						1.279	0.954	N	N	N	N	Y	N	N
+256	K16	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.055	27.055					true	0.040	true	1	45						1.075	0.916	N	N	N	N	Y	N	N
+256	K16	false	10	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	35.077	35.077					true	0.258	true	1	45						1.336	0.943	N	N	N	N	Y	N	N
+257	K17	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.628	26.628					true	0.040	true	1	45						1.068	0.962	N	N	N	N	Y	N	N
+257	K17	false	10	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	29.875	29.875					true	0.106	true	1	45						1.369	0.966	N	N	N	N	Y	N	N
+258	K18	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.649	26.649					true	0.040	true	1	45						1.084	0.928	N	N	N	N	Y	N	N
+258	K18	false	10	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	29.322	29.322					true	0.051	true	1	45						1.156	0.902	N	N	N	N	Y	N	N
+259	K19	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.069	27.069					true	0.040	true	1	45						1.077	0.879	N	N	N	N	Y	N	N
+259	K19	false	10	eaec_aata	UNKNOWN	FAM	NFQ-MGB	29.405	29.405					true	0.040	true	1	45						1.021	0.707	N	N	N	N	Y	N	N
+260	K20	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.069	27.069					true	0.040	true	1	45						1.072	0.921	N	N	N	N	Y	N	N
+260	K20	false	10	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	31.957	31.957					true	0.119	true	1	45						1.192	0.905	N	N	N	N	Y	N	N
+261	K21	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.919	26.919					true	0.040	true	1	45						1.070	0.956	N	N	N	N	Y	N	N
+261	K21	false	10	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	31.202	31.202					true	0.248	true	1	45						1.390	0.931	N	N	N	N	Y	N	N
+262	K22	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.925	26.925					true	0.040	true	1	45						1.070	0.907	N	N	N	N	Y	N	N
+262	K22	false	10	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	31.721	31.721					true	0.181	true	1	45						1.288	0.969	N	N	N	N	Y	N	N
+263	K23	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.772	26.772					true	0.040	true	1	45						1.049	0.925	N	N	N	N	Y	N	N
+263	K23	false	10	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	32.092	32.092					true	0.122	true	1	45						1.225	0.944	N	N	N	N	Y	N	N
+264	K24	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.834	26.834					true	0.040	true	1	45						1.054	0.906	N	N	N	N	Y	N	N
+264	K24	false	10	epec_eae	UNKNOWN	FAM	NFQ-MGB	33.241	33.241					true	0.168	true	1	45						1.284	0.911	N	N	N	N	Y	N	N
+265	L1	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.496	27.496					true	0.040	true	1	45						0.634	0.711	N	N	N	N	Y	N	N
+265	L1	false	10	etec_lt	UNKNOWN	FAM	NFQ-MGB	32.118	32.118					true	0.185	true	1	45						1.314	0.917	N	N	N	N	Y	N	N
+266	L2	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.245	27.245					true	0.040	true	1	45						1.078	0.933	N	N	N	N	Y	N	N
+266	L2	false	10	etec_sth	UNKNOWN	FAM	NFQ-MGB	32.487	32.487					true	0.221	true	1	45						1.347	0.917	N	N	N	N	Y	N	N
+267	L3	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.975	26.975					true	0.040	true	1	45						1.065	0.940	N	N	N	N	Y	N	N
+267	L3	false	10	etec_stp	UNKNOWN	FAM	NFQ-MGB	33.615	33.615					true	0.065	true	1	45						1.131	0.750	N	N	N	N	Y	N	N
+268	L4	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.844	26.844					true	0.040	true	1	45						1.071	0.949	N	N	N	N	Y	N	N
+268	L4	false	10	giardia_spp	UNKNOWN	FAM	NFQ-MGB	30.956	30.956					true	0.149	true	1	45						1.253	0.927	N	N	N	N	Y	N	N
+269	L5	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.454	26.454					true	0.040	true	1	45						1.088	0.918	N	N	N	N	Y	N	N
+269	L5	false	10	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	32.637	32.637					true	0.139	true	1	45						1.221	0.979	N	N	N	N	Y	N	N
+270	L6	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.111	26.111					true	0.040	true	1	45						1.073	0.958	N	N	N	Y	Y	N	N
+270	L6	false	10	hep_a	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.130	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+271	L7	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.184	26.184					true	0.040	true	1	45						1.113	0.936	N	N	N	N	Y	N	N
+271	L7	false	10	hep_g	UNKNOWN	FAM	NFQ-MGB	27.124	27.124					true	0.230	true	1	45						1.332	0.957	N	N	N	N	Y	N	N
+272	L8	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.879	26.879					true	0.040	true	1	45						1.080	0.917	N	N	N	N	Y	N	N
+272	L8	false	10	hf183	UNKNOWN	FAM	NFQ-MGB	31.386	31.386					true	0.179	true	1	45						1.294	0.987	N	N	N	N	Y	N	N
+273	L9	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.696	26.696					true	0.040	true	1	45						1.086	0.949	N	N	N	N	Y	N	N
+273	L9	false	10	human_mtdna	UNKNOWN	FAM	NFQ-MGB	32.022	32.022					true	0.127	true	1	45						1.186	0.975	N	N	N	N	Y	N	N
+274	L10	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.002	27.002					true	0.040	true	1	45						1.071	0.913	N	N	N	N	Y	N	N
+274	L10	false	10	necator_americanus	UNKNOWN	FAM	NFQ-MGB	34.745	34.745					true	0.113	true	1	45						1.213	0.908	N	N	N	N	Y	N	N
+275	L11	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.442	26.442					true	0.040	true	1	45						1.080	0.890	N	N	N	N	Y	N	N
+275	L11	false	10	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	36.816	36.816					true	0.130	true	1	45						1.157	0.971	N	N	N	N	Y	N	N
+276	L12	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.998	26.998					true	0.040	true	1	45						1.080	0.875	N	N	N	Y	Y	N	N
+276	L12	false	10	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.114	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+277	L13	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.544	26.544					true	0.040	true	1	45						1.089	0.966	N	N	N	N	Y	N	N
+277	L13	false	10	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	30.204	30.204					true	0.162	true	1	45						1.250	0.960	N	N	N	N	Y	N	N
+278	L14	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.511	26.511					true	0.040	true	1	45						1.069	0.916	N	N	N	Y	Y	N	N
+278	L14	false	10	rotavirus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.164	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+279	L15	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.966	26.966					true	0.040	true	1	45						1.080	0.934	N	N	N	N	Y	N	N
+279	L15	false	10	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	32.803	32.803					true	0.304	true	1	45						1.382	0.962	N	N	N	N	Y	N	N
+280	L16	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.575	26.575					true	0.040	true	1	45						1.075	0.935	N	N	N	Y	Y	N	N
+280	L16	false	10	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.041	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+281	L17	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.629	26.629					true	0.040	true	1	45						1.063	0.897	N	N	N	N	Y	N	N
+281	L17	false	10	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	35.705	35.705					true	0.217	true	1	45						1.303	0.930	N	N	N	N	Y	N	N
+282	L18	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.942	26.942					true	0.040	true	1	45						1.065	0.919	N	N	N	N	Y	N	N
+282	L18	false	10	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	31.466	31.466					true	0.189	true	1	45						1.291	0.965	N	N	N	N	Y	N	N
+283	L19	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.923	26.923					true	0.040	true	1	45						1.061	0.863	N	N	N	N	Y	N	N
+283	L19	false	10	stec_stx1	UNKNOWN	FAM	NFQ-MGB	32.505	32.505					true	0.238	true	1	45						1.358	0.988	N	N	N	N	Y	N	N
+284	L20	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.075	27.075					true	0.040	true	1	45						1.072	0.935	N	N	N	N	Y	N	N
+284	L20	false	10	stec_stx2	UNKNOWN	FAM	NFQ-MGB	32.829	32.829					true	0.161	true	1	45						1.258	0.940	N	N	N	N	Y	N	N
+285	L21	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.938	26.938					true	0.040	true	1	45						1.078	0.917	N	N	N	N	Y	N	N
+285	L21	false	10	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	32.844	32.844					true	0.217	true	1	45						1.395	0.833	N	N	N	N	Y	N	N
+286	L22	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.803	26.803					true	0.040	true	1	45						1.059	0.876	N	N	N	N	Y	N	N
+286	L22	false	10	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	33.058	33.058					true	0.378	true	1	45						1.445	0.982	N	N	N	N	Y	N	N
+287	L23	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	27.223	27.223					true	0.040	true	1	45						1.056	0.950	N	N	N	N	Y	N	N
+287	L23	false	10	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	31.223	31.223					true	0.101	true	1	45						1.164	0.937	N	N	N	N	Y	N	N
+288	L24	false	10	IPC	UNKNOWN	VIC	NFQ-MGB	26.890	26.890					true	0.040	true	1	45						1.059	0.859	N	N	N	N	Y	N	N
+288	L24	false	10	zika	UNKNOWN	FAM	NFQ-MGB	40.269	40.269					true	0.216	true	1	45						1.292	0.918	N	N	N	N	Y	N	N
+289	M1	false	1	16s	UNKNOWN	FAM	NFQ-MGB	29.395	29.395					true	0.040	true	1	45						0.981	0.799	N	N	N	N	Y	N	N
+289	M1	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.531	26.531					true	0.040	true	1	45						1.057	0.919	N	N	N	N	Y	N	N
+290	M2	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.056	27.056					true	0.040	true	1	45						1.060	0.978	N	N	N	N	Y	N	N
+290	M2	false	1	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	34.237	34.237					true	0.133	true	1	45						1.224	0.948	N	N	N	N	Y	N	N
+291	M3	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.685	26.685					true	0.040	true	1	45						1.068	0.959	N	N	N	N	Y	N	N
+291	M3	false	1	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	36.982	36.982					true	0.059	true	1	45						1.105	0.941	N	N	N	N	Y	N	N
+292	M4	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.836	26.836					true	0.040	true	1	45						1.074	0.957	N	N	N	N	Y	N	N
+292	M4	false	1	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	35.400	35.400					true	0.207	true	1	45						1.359	0.933	N	N	N	N	Y	N	N
+293	M5	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.723	26.723					true	0.040	true	1	45						1.075	0.946	N	N	N	Y	Y	N	N
+293	M5	false	1	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+294	M6	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.931	26.931					true	0.040	true	1	45						1.076	0.924	N	N	N	N	Y	N	N
+294	M6	false	1	astrovirus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.118	true	1	45						0.000	0.000	N	N	N	N	Y	N	N
+295	M7	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.567	26.567					true	0.040	true	1	45						1.082	0.944	N	N	N	N	Y	N	N
+295	M7	false	1	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	34.833	34.833					true	0.410	true	1	45						1.455	0.962	N	N	N	N	Y	N	N
+296	M8	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.900	26.900					true	0.040	true	1	45						1.080	0.942	N	N	N	N	Y	N	N
+296	M8	false	1	bhv	UNKNOWN	FAM	NFQ-MGB	35.256	35.256					true	0.040	true	1	45						0.894	0.707	N	N	N	N	Y	N	N
+297	M9	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.888	26.888					true	0.040	true	1	45						1.084	0.921	N	N	N	N	Y	N	N
+297	M9	false	1	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	34.508	34.508					true	0.040	true	1	45						1.094	0.968	N	N	N	N	Y	N	N
+298	M10	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.986	26.986					true	0.040	true	1	45						1.081	0.905	N	N	N	Y	Y	N	N
+298	M10	false	1	brsv	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.252	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+299	M11	false	1	18s	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.139	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+299	M11	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.490	26.490					true	0.040	true	1	45						1.071	0.912	N	N	N	Y	Y	N	N
+300	M12	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.105	27.105					true	0.040	true	1	45						1.090	0.943	N	N	N	N	Y	N	N
+300	M12	false	1	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	33.048	33.048					true	0.161	true	1	45						1.304	0.983	N	N	N	N	Y	N	N
+301	M13	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.742	26.742					true	0.040	true	1	45						1.085	0.909	N	N	N	N	Y	N	N
+301	M13	false	1	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	35.140	35.140					true	0.160	true	1	45						1.318	0.978	N	N	N	N	Y	N	N
+302	M14	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.651	26.651					true	0.040	true	1	45						1.081	0.928	N	N	N	N	Y	N	N
+302	M14	false	1	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	32.717	32.717					true	0.070	true	1	45						1.179	0.958	N	N	N	N	Y	N	N
+303	M15	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.728	26.728					true	0.040	true	1	45						1.083	0.930	N	N	N	N	Y	N	N
+303	M15	false	1	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	33.227	33.227					true	0.161	true	1	45						1.293	0.892	N	N	N	N	Y	N	N
+304	M16	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.427	27.427					true	0.040	true	1	45						1.073	0.928	N	Y	N	Y	Y	N	N
+304	M16	false	1	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.258	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+305	M17	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.721	26.721					true	0.040	true	1	45						1.076	0.913	N	N	N	N	Y	N	N
+305	M17	false	1	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	32.131	32.131					true	0.106	true	1	45						1.362	0.963	N	N	N	N	Y	N	N
+306	M18	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.854	26.854					true	0.040	true	1	45						1.074	0.935	N	N	N	N	Y	N	N
+306	M18	false	1	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	32.270	32.270					true	0.051	true	1	45						1.162	0.945	N	N	N	N	Y	N	N
+307	M19	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	25.862	25.862					true	0.040	true	1	45						1.085	0.835	N	N	N	N	Y	N	N
+307	M19	false	1	eaec_aata	UNKNOWN	FAM	NFQ-MGB	33.854	33.854					true	0.040	true	1	45						1.035	0.523	N	N	N	N	Y	N	N
+308	M20	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.555	26.555					true	0.040	true	1	45						1.073	0.896	N	N	N	N	Y	N	N
+308	M20	false	1	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	33.877	33.877					true	0.119	true	1	45						1.211	0.869	N	N	N	N	Y	N	N
+309	M21	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.938	26.938					true	0.040	true	1	45						1.070	0.931	N	N	N	N	Y	N	N
+309	M21	false	1	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	33.595	33.595					true	0.248	true	1	45						1.398	0.974	N	N	N	N	Y	N	N
+310	M22	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.778	26.778					true	0.040	true	1	45						1.063	0.896	N	N	N	N	Y	N	N
+310	M22	false	1	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	35.392	35.392					true	0.181	true	1	45						1.289	0.951	N	N	N	N	Y	N	N
+311	M23	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.239	27.239					true	0.040	true	1	45						1.065	0.898	N	N	N	N	Y	N	N
+311	M23	false	1	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	34.250	34.250					true	0.122	true	1	45						1.248	0.982	N	N	N	N	Y	N	N
+312	M24	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.976	26.976					true	0.040	true	1	45						1.057	0.945	N	N	N	N	Y	N	N
+312	M24	false	1	epec_eae	UNKNOWN	FAM	NFQ-MGB	34.966	34.966					true	0.168	true	1	45						1.279	0.936	N	N	N	N	Y	N	N
+313	N1	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	28.827	28.827					true	0.040	true	1	45						0.570	0.698	N	N	N	N	Y	N	N
+313	N1	false	1	etec_lt	UNKNOWN	FAM	NFQ-MGB	34.443	34.443					true	0.185	true	1	45						1.343	0.896	N	N	N	N	Y	N	N
+314	N2	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.498	26.498					true	0.040	true	1	45						1.067	0.934	N	N	N	N	Y	N	N
+314	N2	false	1	etec_sth	UNKNOWN	FAM	NFQ-MGB	32.506	32.506					true	0.221	true	1	45						1.339	0.941	N	N	N	N	Y	N	N
+315	N3	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.794	26.794					true	0.040	true	1	45						1.071	0.940	N	N	N	N	Y	N	N
+315	N3	false	1	etec_stp	UNKNOWN	FAM	NFQ-MGB	32.995	32.995					true	0.065	true	1	45						1.124	0.822	N	N	N	N	Y	N	N
+316	N4	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.815	26.815					true	0.040	true	1	45						1.071	0.944	N	N	N	N	Y	N	N
+316	N4	false	1	giardia_spp	UNKNOWN	FAM	NFQ-MGB	33.062	33.062					true	0.149	true	1	45						1.280	0.911	N	N	N	N	Y	N	N
+317	N5	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.049	27.049					true	0.040	true	1	45						1.072	0.940	N	N	N	Y	Y	N	N
+317	N5	false	1	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.139	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+318	N6	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.804	26.804					true	0.040	true	1	45						1.076	0.951	N	Y	N	Y	Y	N	N
+318	N6	false	1	hep_a	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.130	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+319	N7	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	25.695	25.695					true	0.040	true	1	45						1.110	0.981	N	N	N	N	Y	N	N
+319	N7	false	1	hep_g	UNKNOWN	FAM	NFQ-MGB	27.228	27.228					true	0.230	true	1	45						1.336	0.987	N	N	N	N	Y	N	N
+320	N8	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.503	26.503					true	0.040	true	1	45						1.079	0.930	N	N	N	N	Y	N	N
+320	N8	false	1	hf183	UNKNOWN	FAM	NFQ-MGB	32.586	32.586					true	0.179	true	1	45						1.289	0.988	N	N	N	N	Y	N	N
+321	N9	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.974	26.974					true	0.040	true	1	45						1.082	0.922	N	N	N	N	Y	N	N
+321	N9	false	1	human_mtdna	UNKNOWN	FAM	NFQ-MGB	33.769	33.769					true	0.127	true	1	45						1.201	0.949	N	N	N	N	Y	N	N
+322	N10	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.527	26.527					true	0.040	true	1	45						1.073	0.923	N	N	N	Y	Y	N	N
+322	N10	false	1	necator_americanus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.113	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+323	N11	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.990	26.990					true	0.040	true	1	45						1.076	0.938	N	Y	N	Y	Y	N	N
+323	N11	false	1	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.130	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+324	N12	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.725	26.725					true	0.040	true	1	45						1.081	0.921	N	Y	N	Y	Y	N	N
+324	N12	false	1	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.114	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+325	N13	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.750	26.750					true	0.040	true	1	45						1.082	0.925	N	Y	N	Y	Y	N	N
+325	N13	false	1	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.162	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+326	N14	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.776	26.776					true	0.040	true	1	45						1.076	0.883	N	N	N	Y	Y	N	N
+326	N14	false	1	rotavirus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.164	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+327	N15	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.761	26.761					true	0.040	true	1	45						1.072	0.952	N	N	N	Y	Y	N	N
+327	N15	false	1	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.304	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+328	N16	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.117	27.117					true	0.040	true	1	45						1.071	0.908	N	Y	N	Y	Y	N	N
+328	N16	false	1	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.041	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+329	N17	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.664	26.664					true	0.040	true	1	45						1.077	0.899	N	N	N	N	Y	N	N
+329	N17	false	1	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.217	true	1	45						0.555	0.000	N	N	N	N	Y	N	N
+330	N18	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.415	27.415					true	0.040	true	1	45						1.079	0.897	N	N	N	Y	Y	N	N
+330	N18	false	1	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.189	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+331	N19	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.265	26.265					true	0.040	true	1	45						1.037	0.928	N	N	N	N	Y	N	Y
+331	N19	false	1	stec_stx1	UNKNOWN	FAM	NFQ-MGB	34.302	34.302					true	0.238	true	1	45						1.383	0.969	N	N	N	N	Y	N	Y
+332	N20	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.898	26.898					true	0.040	true	1	45						1.069	0.886	N	Y	N	N	Y	N	N
+332	N20	false	1	stec_stx2	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.161	true	1	45						0.000	0.000	N	Y	N	N	Y	N	N
+333	N21	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.912	26.912					true	0.040	true	1	45						1.066	0.929	N	N	N	N	Y	N	N
+333	N21	false	1	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	34.895	34.895					true	0.217	true	1	45						1.388	0.937	N	N	N	N	Y	N	N
+334	N22	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.725	26.725					true	0.040	true	1	45						1.050	0.921	N	N	N	N	Y	N	N
+334	N22	false	1	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	35.544	35.544					true	0.378	true	1	45						1.435	0.967	N	N	N	N	Y	N	N
+335	N23	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	27.102	27.102					true	0.040	true	1	45						1.057	0.898	N	N	N	Y	Y	N	N
+335	N23	false	1	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.101	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+336	N24	false	1	IPC	UNKNOWN	VIC	NFQ-MGB	26.770	26.770					true	0.040	true	1	45						1.045	0.940	N	N	N	Y	Y	N	N
+336	N24	false	1	zika	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.216	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+337	O1	false	NTC	16s	UNKNOWN	FAM	NFQ-MGB	30.812	30.812					true	0.040	true	1	45						0.938	0.799	N	N	N	N	Y	N	N
+337	O1	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.623	26.623					true	0.040	true	1	45						1.057	0.971	N	N	N	N	Y	N	N
+338	O2	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.267	26.267					true	0.040	true	1	45						1.061	0.963	N	N	N	Y	Y	N	Y
+338	O2	false	NTC	acanthamoeba_spp	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.133	true	1	45						0.000	0.000	N	N	N	Y	Y	N	Y
+339	O3	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.564	26.564					true	0.040	true	1	45						1.064	0.959	N	N	N	Y	Y	N	N
+339	O3	false	NTC	adenovirus_40_41	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.059	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+340	O4	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.130	27.130					true	0.040	true	1	45						1.068	0.931	N	Y	N	Y	Y	N	N
+340	O4	false	NTC	anclyostoma_duoenale	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.207	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+341	O5	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.829	26.829					true	0.040	true	1	45						1.057	0.974	N	N	N	N	Y	N	N
+341	O5	false	NTC	ascaris_lumbricoides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.200	true	1	45						0.000	0.000	N	N	N	N	Y	N	N
+342	O6	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.939	26.939					true	0.040	true	1	45						1.069	0.939	N	N	N	N	Y	N	N
+342	O6	false	NTC	astrovirus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.118	true	1	45						0.350	0.000	N	N	N	N	Y	N	N
+343	O7	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.637	26.637					true	0.040	true	1	45						1.071	0.918	N	N	N	N	Y	N	N
+343	O7	false	NTC	balantidium_coli	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.410	true	1	45						0.000	0.000	N	N	N	N	Y	N	N
+344	O8	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.499	26.499					true	0.040	true	1	45						1.079	0.935	N	N	N	Y	Y	N	N
+344	O8	false	NTC	bhv	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.040	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+345	O9	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.410	27.410					true	0.040	true	1	45						1.079	0.954	N	Y	N	N	Y	N	N
+345	O9	false	NTC	blastocystis_spp	UNKNOWN	FAM	NFQ-MGB	44.162	44.162					true	0.040	true	1	45						0.000	0.000	N	Y	N	N	Y	N	N
+346	O10	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.741	26.741					true	0.040	true	1	45						1.068	0.933	N	N	N	Y	Y	N	N
+346	O10	false	NTC	brsv	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.252	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+347	O11	false	NTC	18s	UNKNOWN	FAM	NFQ-MGB	32.521	32.521					true	0.139	true	1	45						1.238	0.984	N	N	N	N	Y	N	N
+347	O11	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.472	26.472					true	0.040	true	1	45						1.110	0.927	N	N	N	N	Y	N	N
+348	O12	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.821	26.821					true	0.040	true	1	45						1.074	0.908	N	N	N	Y	Y	N	N
+348	O12	false	NTC	c_jejuni_c_coli	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.161	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+349	O13	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.956	26.956					true	0.040	true	1	45						1.078	0.940	N	N	N	Y	Y	N	N
+349	O13	false	NTC	clostridium_difficile	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.160	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+350	O14	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.616	26.616					true	0.040	true	1	45						1.079	0.904	N	N	N	Y	Y	N	N
+350	O14	false	NTC	cryptosporidium_spp	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.070	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+351	O15	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.772	26.772					true	0.040	true	1	45						1.074	0.899	N	N	N	Y	Y	N	N
+351	O15	false	NTC	cyclospora_cayetanesis	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.161	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+352	O16	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.816	26.816					true	0.040	true	1	45						1.071	0.932	N	N	N	Y	Y	N	N
+352	O16	false	NTC	e_coli_ybbW	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.258	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+353	O17	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.968	26.968					true	0.040	true	1	45						1.077	0.921	N	N	N	Y	Y	N	N
+353	O17	false	NTC	e_coli_0157H7	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.106	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+354	O18	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.771	26.771					true	0.040	true	1	45						1.064	0.897	N	N	N	Y	Y	N	N
+354	O18	false	NTC	eaec_aaic	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.051	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+355	O19	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.673	26.673					true	0.040	true	1	45						1.068	0.933	N	Y	N	Y	Y	N	N
+355	O19	false	NTC	eaec_aata	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.040	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+356	O20	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.145	27.145					true	0.040	true	1	45						1.067	0.863	N	N	N	Y	Y	N	N
+356	O20	false	NTC	entamoeba_histolytica	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.119	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+357	O21	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.009	27.009					true	0.040	true	1	45						1.060	0.943	N	N	N	Y	Y	N	N
+357	O21	false	NTC	enterobius_verminularis	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.248	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+358	O22	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.180	27.180					true	0.040	true	1	45						1.058	0.917	N	N	N	N	Y	N	N
+358	O22	false	NTC	enterococcus_spp	UNKNOWN	FAM	NFQ-MGB	35.880	35.880					true	0.181	true	1	45						1.285	0.985	N	N	N	N	Y	N	N
+359	O23	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.208	27.208					true	0.040	true	1	45						1.057	0.890	N	Y	N	Y	Y	N	N
+359	O23	false	NTC	epec_bfpa	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.122	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+360	O24	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.963	26.963					true	0.040	true	1	45						1.044	0.888	N	Y	N	Y	Y	N	N
+360	O24	false	NTC	epec_eae	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.168	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+361	P1	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	32.206	32.206					true	0.040	true	1	45						0.656	0.421	N	N	N	Y	Y	N	N
+361	P1	false	NTC	etec_lt	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.185	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+362	P2	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.904	26.904					true	0.040	true	1	45						1.061	0.915	N	N	N	Y	Y	N	N
+362	P2	false	NTC	etec_sth	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.221	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+363	P3	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.033	27.033					true	0.040	true	1	45						1.065	0.952	N	N	N	Y	Y	N	N
+363	P3	false	NTC	etec_stp	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.065	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+364	P4	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.789	26.789					true	0.040	true	1	45						1.067	0.954	N	N	N	Y	Y	N	N
+364	P4	false	NTC	giardia_spp	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.149	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+365	P5	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.821	26.821					true	0.040	true	1	45						1.062	0.901	N	Y	N	Y	Y	N	N
+365	P5	false	NTC	helicobactor_pylori	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.139	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+366	P6	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.142	27.142					true	0.040	true	1	45						1.076	0.944	N	N	N	Y	Y	N	N
+366	P6	false	NTC	hep_a	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.130	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+367	P7	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.316	26.316					true	0.040	true	1	45						1.102	0.942	N	N	N	N	Y	N	N
+367	P7	false	NTC	hep_g	UNKNOWN	FAM	NFQ-MGB	27.063	27.063					true	0.230	true	1	45						1.361	0.979	N	N	N	N	Y	N	N
+368	P8	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.482	26.482					true	0.040	true	1	45						1.050	0.949	N	N	N	Y	Y	N	Y
+368	P8	false	NTC	hf183	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.179	true	1	45						0.000	0.000	N	N	N	Y	Y	N	Y
+369	P9	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.044	27.044					true	0.040	true	1	45						1.077	0.943	N	N	N	N	Y	N	N
+369	P9	false	NTC	human_mtdna	UNKNOWN	FAM	NFQ-MGB	35.466	35.466					true	0.127	true	1	45						1.207	0.954	N	N	N	N	Y	N	N
+370	P10	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.503	26.503					true	0.040	true	1	45						1.075	0.941	N	N	N	Y	Y	N	N
+370	P10	false	NTC	necator_americanus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.113	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+371	P11	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.550	26.550					true	0.040	true	1	45						1.078	0.907	N	Y	N	Y	Y	N	N
+371	P11	false	NTC	norovirus_gi	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.130	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+372	P12	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.126	26.126					true	0.040	true	1	45						1.074	0.956	N	Y	N	Y	Y	N	N
+372	P12	false	NTC	norovirus_gii	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.114	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+373	P13	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.053	26.053					true	0.040	true	1	45						1.080	0.960	N	N	N	Y	Y	N	N
+373	P13	false	NTC	plesiomonas_shigeeloides	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.162	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+374	P14	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.385	26.385					true	0.040	true	1	45						1.081	0.935	N	N	N	Y	Y	N	N
+374	P14	false	NTC	rotavirus	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.164	true	1	45						0.513	0.000	N	N	N	Y	Y	N	N
+375	P15	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.539	26.539					true	0.040	true	1	45						1.075	0.891	N	N	N	Y	Y	N	N
+375	P15	false	NTC	salmonella_enterica	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.304	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+376	P16	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.033	27.033					true	0.040	true	1	45						1.073	0.897	N	Y	N	Y	Y	N	N
+376	P16	false	NTC	sapovirus_i_ii_iv_v	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.041	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+377	P17	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.677	26.677					true	0.040	true	1	45						1.077	0.887	N	Y	N	Y	Y	N	N
+377	P17	false	NTC	sars_cov_2	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.217	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+378	P18	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.987	26.987					true	0.040	true	1	45						1.075	0.908	N	Y	N	Y	Y	N	N
+378	P18	false	NTC	shigella_eiec	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.189	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+379	P19	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.026	27.026					true	0.040	true	1	45						1.076	0.865	N	N	N	Y	Y	N	N
+379	P19	false	NTC	stec_stx1	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.238	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+380	P20	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.764	26.764					true	0.040	true	1	45						1.069	0.909	N	N	N	Y	Y	N	N
+380	P20	false	NTC	stec_stx2	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.161	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+381	P21	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.938	26.938					true	0.040	true	1	45						1.059	0.892	N	N	N	Y	Y	N	N
+381	P21	false	NTC	strongyloides_stercolaris	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.217	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+382	P22	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	26.647	26.647					true	0.040	true	1	45						1.056	0.912	N	N	N	Y	Y	N	N
+382	P22	false	NTC	tichuris_trichuira	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.378	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
+383	P23	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.163	27.163					true	0.040	true	1	45						1.051	0.921	N	Y	N	Y	Y	N	N
+383	P23	false	NTC	yersinia_enterocolitica	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.101	true	1	45						0.000	0.000	N	Y	N	Y	Y	N	N
+384	P24	false	NTC	IPC	UNKNOWN	VIC	NFQ-MGB	27.200	27.200					true	0.040	true	1	45						1.037	0.870	N	N	N	Y	Y	N	N
+384	P24	false	NTC	zika	UNKNOWN	FAM	NFQ-MGB	Undetermined						true	0.216	true	1	45						0.000	0.000	N	N	N	Y	Y	N	N
