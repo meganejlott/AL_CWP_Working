@@ -98,7 +98,7 @@ for(i in 1:nrow(targets)){
 }
 
   
-
+#write_csv(results, "./data/processed_data/standard_curves_all.csv")
 
 #If you want one curve per machine
 
@@ -130,7 +130,7 @@ for(i in 1:nrow(machines)){
 
 #Calculate the PCR efficiency
 results = results %>% 
-  mutate(efficiency = 10^-(1/slope))
+  mutate(efficiency = (10^-(1/slope)-1)*100)
 
 #Add in the number of points used
 results %>%
